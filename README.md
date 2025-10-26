@@ -1,11 +1,11 @@
-# 🧠 Cross-Marketplace Laptop & Review Intelligence Engine
+#  Cross-Marketplace Laptop & Review Intelligence Engine
 
 This project builds an **insights engine** for specific business laptops sold on Lenovo and HP first-party stores, fulfilling the requirements of the _“Cross-Marketplace Laptop & Review Intelligence”_ assignment.  
 It leverages **Retrieval-Augmented Generation (RAG)** to combine canonical technical specifications from PDFs with mutable data (like price and reviews) scraped or manually entered from brand websites, providing an interactive analytics experience and a chatbot interface.
 
 ---
 
-## 🚩 Problem Statement
+##  Problem Statement
 
 The goal is to create a system that can answer natural language questions, provide purchase recommendations with citations, and offer analytical insights about four specific business laptops:
 
@@ -18,7 +18,7 @@ The system must treat official PDF spec sheets as **ground truth** for technical
 
 ---
 
-## ✨ Features
+##  Features
 
 - **Coherent Dataset:** Integrates static technical specs with dynamic market data (prices, reviews, availability, etc.).  
 - **RAG Chatbot:** Answers natural language questions about laptop specs, prices, availability, and comparisons using **Google Gemini**, providing citations from source PDFs. Supports chat history (last 5 messages).  
@@ -30,7 +30,7 @@ The system must treat official PDF spec sheets as **ground truth** for technical
 
 ---
 
-## 🧩 Tech Stack
+##  Tech Stack
 
 | Component | Technology |
 |------------|-------------|
@@ -47,7 +47,7 @@ The system must treat official PDF spec sheets as **ground truth** for technical
 
 ---
 
-## 🏗️ Architecture & Design Decisions
+##  Architecture & Design Decisions
 
 The system employs a **Retrieval-Augmented Generation (RAG)** architecture to provide accurate, context-aware answers based on both static and dynamic data sources.
 
