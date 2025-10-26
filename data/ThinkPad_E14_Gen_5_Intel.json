@@ -1,0 +1,421 @@
+[
+  {
+    "section_title": "Ports and Slots",
+    "content": "A detailed listing of the ports on the ThinkPad E14 Gen 5 (Intel) chassis and their corresponding numbers in the image:\n1. USB 2.0 \n2. Ethernet (RJ-45) \n3. Kensington Nano Security Slot \n4. USB-C 3.2 Gen 2 \n5. Thunderbolt 4 \n6. USB 3.2 Gen 1 (Always On) \n7. HDMI \n8. Headphone / microphone combo jack (3.5mm) \nStandard Ports (Full List with Specifications):\n1x USB 2.0 \n1x USB 3.2 Gen 1 (Always On) \n1x USB-C 3.2 Gen 2 (support data transfer, Power Delivery 3.0 and DisplayPort™ 1.4) \n1x Thunderbolt™ 4/USB4 40Gbps (support data transfer, Power Delivery 3.0 and DisplayPort™ 1.4) \n1x HDMI 2.1, up to 4K/60Hz \n1x Headphone/microphone combo jack (3.5mm) \n1x Ethernet (RJ-45) \nThe transfer speed of these ports will vary depending on factors like the host device's processing speed and file attributes, and may be slower than the theoretical speed. Theoretical maximum speeds are: USB 2.0: 480 Mbit/s; USB 3.2 Gen 1: 5 Gbit/s; USB 3.2 Gen 2: 10 Gbit/s; USB4 40Gbps / Thunderbolt™ 3/4: 40 Gbit/s.",
+    "source_model": "ThinkPad E14 Gen 5 (Intel)",
+    "source_citations": [
+      8, 9, 10, 11, 12, 13, 14, 15, 223, 224, 225, 226, 227, 228, 229, 231,
+      232, 233, 234, 236, 237
+    ],
+    "subfeatures": null
+  },
+  {
+    "section_title": "Processor",
+    "content": "Processor Family: 13th Generation Intel U, P or H Series Core i3/i5/i7 Processor. The table below provides the full processor specifications. Note: Intel Iris Xe Graphics capability requires the system to be configured with dual-channel memory; on a system with single-channel memory, it will function as Intel UHD Graphics.",
+    "source_model": "ThinkPad E14 Gen 5 (Intel)",
+    "source_citations": [22, 29, 30],
+    "subfeatures": [
+      {
+        "content": "Core i3-1315U: 6 Cores (2 P-core + 4 E-core), 8 Threads, P-core Base 1.2GHz / E-core Base 0.9GHz, P-core Max 4.5GHz / E-core Max 3.3GHz, 10MB Cache, Intel UHD Graphics",
+        "source_citations": [27]
+      },
+      {
+        "content": "Core i5-13350: 10 Cores (2 P-core + 8 E-core), 12 Threads, P-core Base 1.3GHz / E-core Base 0.9GHz, P-core Max 4.6GHz / E-core Max 3.4GHz, 12MB Cache, Intel Iris Xe Graphics",
+        "source_citations": [27]
+      },
+      {
+        "content": "Core i5-1340P: 12 Cores (4 P-core + 8 E-core), 16 Threads, P-core Base 1.9GHz / E-core Base 1.4GHz, P-core Max 4.6GHz / E-core Max 3.4GHz, 12MB Cache, Intel Iris Xe Graphics",
+        "source_citations": [27]
+      },
+      {
+        "content": "Core i5-13420H: 8 Cores (4 P-core + 4 E-core), 12 Threads, P-core Base 2.1GHz / E-core Base 1.5GHz, P-core Max 4.6GHz / E-core Max 3.4GHz, 12MB Cache, Intel UHD Graphics",
+        "source_citations": [27]
+      },
+      {
+        "content": "Core i5-1345U: 10 Cores (2 P-core + 8 E-core), 12 Threads, P-core Base 1.6GHz / E-core Base 1.2GHz, P-core Max 4.7GHz / E-core Max 3.5GHz, 12MB Cache, Intel Iris Xe Graphics",
+        "source_citations": [27]
+      },
+      {
+        "content": "Core i5-13500H: 12 Cores (4 P-core + 8 E-core), 16 Threads, P-core Base 2.6GHz / E-core Base 1.9GHz, P-core Max 4.7GHz / E-core Max 3.5GHz, 18MB Cache, Intel Iris Xe Graphics",
+        "source_citations": [27]
+      },
+      {
+        "content": "Core i7-1355U: 10 Cores (2 P-core + 8 E-core), 12 Threads, P-core Base 1.7GHz / E-core Base 1.2GHz, P-core Max 5.0GHz / E-core Max 3.7GHz, 12MB Cache, Intel Iris Xe Graphics",
+        "source_citations": [27]
+      },
+      {
+        "content": "Core i7-1360P: 12 Cores (4 P-core + 8 E-core), 16 Threads, P-core Base 2.2GHz / E-core Base 1.6GHz, P-core Max 5.0GHz / E-core Max 3.7GHz, 18MB Cache, Intel Iris Xe Graphics",
+        "source_citations": [27]
+      },
+      {
+        "content": "Core i7-1365U: 10 Cores (2 P-core + 8 E-core), 12 Threads, P-core Base 1.8GHz / E-core Base 1.3GHz, P-core Max 5.2GHz / E-core Max 3.9GHz, 12MB Cache, Intel Iris Xe Graphics",
+        "source_citations": [27]
+      },
+      {
+        "content": "Core i7-13700H: 14 Cores (6 P-core + 8 E-core), 20 Threads, P-core Base 2.4GHz / E-core Base 1.8GHz, P-core Max 5.0GHz / E-core Max 3.7GHz, 24MB Cache, Intel Iris Xe Graphics",
+        "source_citations": [27]
+      }
+    ]
+  },
+  {
+    "section_title": "Operating System",
+    "content": "Available operating system options are: Windows 11 Pro , Windows 11 Home , Windows 11 Home Single Language , Windows 11 DG Windows 10 Pro 64 (for special bid only) , Ubuntu Linux (some features may not be supported) , or No preload operating system.",
+    "source_model": "ThinkPad E14 Gen 5 (Intel)",
+    "source_citations": [33, 34, 35, 36, 40, 37, 41, 38],
+    "subfeatures": null
+  },
+  {
+    "section_title": "Graphics",
+    "content": "The system includes one of the following graphics options. Note: Intel Iris Xe Graphics requires dual-channel memory; otherwise, it functions as Intel UHD Graphics.",
+    "source_model": "ThinkPad E14 Gen 5 (Intel)",
+    "source_citations": [29, 30, 52, 53],
+    "subfeatures": [
+      {
+        "content": "Intel UHD Graphics: Integrated, Shared Memory, Share CPU TDP, DirectX® 12.1",
+        "source_citations": [44]
+      },
+      {
+        "content": "Intel Iris Xe Graphics: Integrated, Shared Memory, Share CPU TDP, DirectX® 12.1",
+        "source_citations": [44]
+      },
+      {
+        "content": "NVIDIA GeForce MX550: Discrete, 2GB GDDR6 Memory, DirectX® 12",
+        "source_citations": [44]
+      }
+    ]
+  },
+  {
+    "section_title": "Monitor Support",
+    "content": "Supports up to 4 independent displays (native display and 3 external monitors) via HDMI, USB-C, and Thunderbolt™ .\n- HDMI supports up to $4096\\times2160@60$Hz \n- USB-C supports up to $4096\\times2160@60$Hz \n- Thunderbolt™ supports up to $5120\\times2880@60$Hz",
+    "source_model": "ThinkPad E14 Gen 5 (Intel)",
+    "source_citations": [56, 57, 58, 59],
+    "subfeatures": null
+  },
+  {
+    "section_title": "Chipset",
+    "content": "Intel SoC (System on Chip) platform.",
+    "source_model": "ThinkPad E14 Gen 5 (Intel)",
+    "source_citations": [62],
+    "subfeatures": null
+  },
+  {
+    "section_title": "Memory",
+    "content": "Memory Type: DDR4-3200. The system has one memory soldered to the systemboard and one DDR4 SO-DIMM slot, making it dual-channel capable.",
+    "source_model": "ThinkPad E14 Gen 5 (Intel)",
+    "source_citations": [69, 67],
+    "subfeatures": [
+      {
+        "content": "Maximum Memory: Up to 40GB (8GB soldered + 32GB SO-DIMM) DDR4-3200",
+        "source_citations": [65]
+      },
+      {
+        "content": "Maximum Memory: Up to 48GB (16GB soldered + 32GB SO-DIMM) DDR4-3200 (48GB is to test technical readiness; available memory to sell will vary)",
+        "source_citations": [65, 71]
+      }
+    ]
+  },
+  {
+    "section_title": "Storage",
+    "content": "Max Storage Support: Up to two drives, 2x M.2 SSD , with M.2 2242 SSD up to 1TB each .\nStorage Slots: Two M.2 slots : One M.2 2242 PCIe 3.0 x4 slot  and one M.2 2242 PCIe 4.0 x4 slot. An M.2 PCIe 4.0 x4 SSD in the M.2 PCIe 3.0 x4 slot is downgraded to PCIe 3.0 x4 performance.",
+    "source_model": "ThinkPad E14 Gen 5 (Intel)",
+    "source_citations": [74, 75, 77, 78, 79, 89],
+    "subfeatures": [
+      {
+        "content": "M.2 2242 SSD: PCIe NVMe, PCIe 3.0 x4 interface, 128GB offering",
+        "source_citations": [81]
+      },
+      {
+        "content": "M.2 2242 SSD: PCIe NVMe, PCIe 4.0 x4 interface, 256GB/512GB/1TB offering, Opal 2.0 Security",
+        "source_citations": [81]
+      }
+    ]
+  },
+  {
+    "section_title": "Removable Storage",
+    "content": "Card Reader: No card reader.",
+    "source_model": "ThinkPad E14 Gen 5 (Intel)",
+    "source_citations": [92],
+    "subfeatures": null
+  },
+  {
+    "section_title": "Audio and Camera",
+    "content": "Audio Chip: High Definition (HD) Audio, Synaptic CX11880 codec .\nSpeakers: Stereo speakers, 2W x2, Dolby Atmos .\nMicrophone: Dual-microphone array, Dolby Voice.",
+    "source_model": "ThinkPad E14 Gen 5 (Intel)",
+    "source_citations": [98, 99, 101],
+    "subfeatures": [
+      {
+        "content": "Camera Option: HD 720p, with privacy shutter, fixed focus",
+        "source_citations": [106]
+      },
+      {
+        "content": "Camera Option: FHD 1080p + IR hybrid, with privacy shutter, fixed focus",
+        "source_citations": [107]
+      },
+      {
+        "content": "Camera Option: FHD 1080p, with privacy shutter, fixed focus",
+        "source_citations": [108]
+      }
+    ]
+  },
+  {
+    "section_title": "Battery and Power Adapter",
+    "content": "Battery Options: 47Wh or 57Wh Rechargeable Li-ion Battery, both support Rapid Charge (charge up to 80% in 1hr). Rapid charge is only guaranteed when the computer is turned off, in standby, or in hibernation mode .\nPower Adapter: 65W USB-C (2-pin or 3-pin) AC adapter, supports PD 3.0, 100-240V, 50-60Hz.",
+    "source_model": "ThinkPad E14 Gen 5 (Intel)",
+    "source_citations": [111, 128, 139],
+    "subfeatures": [
+      {
+        "content": "Configuration 1 (Max Battery Life - WUXGA non-touch, i3-1315U, 8GB DDR4, 57Wh): MobileMark 2018 up to 11.2 hr; MobileMark 25 up to 8.58 hr; JEITA 2.0 up to 15.2 hr; Local video playback up to 13.9 hr",
+        "source_citations": [113, 114, 115, 116, 130]
+      },
+      {
+        "content": "Alternate Configuration 2 (WUXGA touch, i5-1340P, 16GB DDR4, 57Wh): MobileMark 2018 up to 9.16 hr; MobileMark 25 up to 7.6 hr; JEITA 2.0 up to 15.3 hr; Local video playback up to 13.4 hr",
+        "source_citations": [118, 119, 120, 121, 131]
+      },
+      {
+        "content": "Alternate Configuration 3 (2.2K non-touch, i7-1355U, 40GB DDR4, NVIDIA MX550, 57Wh): MobileMark 2018 up to 8.18 hr; MobileMark 25 up to 6.7 hr; JEITA 2.0 up to 14.9 hr; Local video playback up to 13.1 hr",
+        "source_citations": [123, 124, 125, 126, 132]
+      }
+    ]
+  },
+  {
+    "section_title": "Display",
+    "content": "Screen-to-Body Ratio: 90%. Touchscreen: On-cell multi-touch, supports 10-point touch, or Non-touch.",
+    "source_model": "ThinkPad E14 Gen 5 (Intel)",
+    "source_citations": [155, 153],
+    "subfeatures": [
+      {
+        "content": "14\" WUXGA (1920x1200): Non-touch, IPS, 300nits, Anti-glare, 16:10, 800:1 Contrast, 45% NTSC, 60Hz, TÜV Low Blue Light (Software)",
+        "source_citations": [151]
+      },
+      {
+        "content": "14\" WUXGA (1920x1200): Multi-touch, IPS, 300nits, Anti-glare, 16:10, 800:1 Contrast, 45% NTSC, 60Hz, TÜV Low Blue Light (Software)",
+        "source_citations": [151]
+      },
+      {
+        "content": "14\" 2.2K (2240x1400): Non-touch, IPS, 300nits, Anti-glare, 16:10, 1500:1 Contrast, 100% SRGB, 60Hz, Eyesafe Certified 2.0",
+        "source_citations": [151]
+      }
+    ]
+  },
+  {
+    "section_title": "Input Devices",
+    "content": "Pen: No support .\nKeyboard: 6-row, spill-resistant, multimedia Fn keys with Unified Communications controls .\nKeyboard Backlight: LED backlight or Non-backlight options .\nUltraNav™: TrackPoint pointing device and Mylar surface multi-touch 3-button Trackpad, $56 \\times 115$ mm ($2.24 \\times 4.53$ inches).",
+    "source_model": "ThinkPad E14 Gen 5 (Intel)",
+    "source_citations": [160, 162, 163, 164, 166],
+    "subfeatures": null
+  },
+  {
+    "section_title": "Physical Specifications (Dimensions and Weight)",
+    "content": "Dimensions (W x D x H): $313 \\times 219.3 \\times 17.99$ mm ($12.32 \\times 8.63 \\times 0.71$ inches) (dimensions may vary depending on configurations) .\nCase Color options: Arctic grey and Graphite black.",
+    "source_model": "ThinkPad E14 Gen 5 (Intel)",
+    "source_citations": [169, 179, 173, 174],
+    "subfeatures": [
+      {
+        "content": "Case Material: Aluminium (top), PC-ABS (bottom) | Weight: Starting at 1.41 kg (3.11 lbs)",
+        "source_citations": [171, 176]
+      },
+      {
+        "content": "Case Material: Aluminium (top), aluminium (bottom) | Weight: Starting at 1.43 kg (3.15 lbs)",
+        "source_citations": [171, 177]
+      }
+    ]
+  },
+  {
+    "section_title": "Connectivity (WLAN, WWAN, Ethernet)",
+    "content": "Ethernet: Gigabit Ethernet, Intel Ethernet Connection I219-V, 1x RJ-45, supports Wake-on-LAN .\nWWAN: No support .\nSIM Card: No physical SIM card inbox .\nNFC: No support.",
+    "source_model": "ThinkPad E14 Gen 5 (Intel)",
+    "source_citations": [200, 196, 198, 201],
+    "subfeatures": [
+      {
+        "content": "Wi-Fi 6, 802.11ax 2x2 Wi-Fi + Bluetooth 5.1, M.2 card",
+        "source_citations": [188]
+      },
+      {
+        "content": "Realtek Wi-Fi 6 RTL8852BE, 802.11ax Dual Band 2x2 Wi-Fi + Bluetooth 5.1 (Bluetooth 5.3 hardware ready), M.2 card",
+        "source_citations": [192, 207]
+      },
+      {
+        "content": "Intel Wi-Fi 6 AX201, 802.11ax 2x2 Wi-Fi + Bluetooth 5.1 (Bluetooth 5.2 hardware ready), M.2 card",
+        "source_citations": [193, 211]
+      },
+      {
+        "content": "Wi-Fi 6E, 802.11ax 2x2 Wi-Fi + Bluetooth 5.1, M.2 card",
+        "source_citations": [193, 213]
+      },
+      {
+        "content": "Realtek Wi-Fi 6E RTL8852CE, 802.11ax 2x2 Wi-Fi + Bluetooth 5.1 (Bluetooth 5.3 hardware ready), M.2 card",
+        "source_citations": [194, 220]
+      },
+      {
+        "content": "Intel Wi-Fi 6E AX211, 802.11ax 2x2 Wi-Fi + Bluetooth 5.1 (Bluetooth 5.3 hardware ready), M.2 card",
+        "source_citations": [194, 220]
+      }
+    ]
+  },
+  {
+    "section_title": "Docking",
+    "content": "Various docking solutions supported via Thunderbolt™ or USB-C.",
+    "source_model": "ThinkPad E14 Gen 5 (Intel)",
+    "source_citations": [244],
+    "subfeatures": null
+  },
+  {
+    "section_title": "Security and Privacy",
+    "content": "Other Security: ThinkShield, Camera privacy shutter, (Optional) IR camera for Windows Hello (facial recognition).",
+    "source_model": "ThinkPad E14 Gen 5 (Intel)",
+    "source_citations": [265, 266, 267],
+    "subfeatures": [
+      {
+        "content": "Security Chip: Firmware TPM 2.0 integrated in SoC or Discrete TPM 2.0, TCG certified, FIPS 140-2 certified",
+        "source_citations": [250, 251]
+      },
+      {
+        "content": "Physical Lock: Kensington Nano Security Slot™, $2.5 \\times 6$ mm",
+        "source_citations": [253]
+      },
+      {
+        "content": "Smart Card Reader: No smart card reader",
+        "source_citations": [255]
+      },
+      {
+        "content": "Fingerprint Reader: Touch style fingerprint reader integrated in power button or No fingerprint reader",
+        "source_citations": [257, 258]
+      },
+      {
+        "content": "BIOS Security: NVMe password, Power-on password, Supervisor password, Self-healing BIOS",
+        "source_citations": [260, 261, 262, 263]
+      }
+    ]
+  },
+  {
+    "section_title": "System Management",
+    "content": "System management options include Intel vPro Enterprise or Non-vPro.",
+    "source_model": "ThinkPad E14 Gen 5 (Intel)",
+    "source_citations": [271],
+    "subfeatures": null
+  },
+  {
+    "section_title": "Warranty",
+    "content": null,
+    "source_model": "ThinkPad E14 Gen 5 (Intel)",
+    "source_citations": [],
+    "subfeatures": [
+      {
+        "content": "Base Warranty Options: 1-year mail-in service",
+        "source_citations": [280]
+      },
+      {
+        "content": "Base Warranty Options: 1-year courier or carry-in service",
+        "source_citations": [281]
+      },
+      {
+        "content": "Base Warranty Options: 1-year courier or carry-in with 2-year system board service (Korea only)",
+        "source_citations": [282]
+      },
+      {
+        "content": "Base Warranty Options: 1-year limited onsite service",
+        "source_citations": [283]
+      },
+      {
+        "content": "Base Warranty Options: No base warranty",
+        "source_citations": [284]
+      }
+    ]
+  },
+  {
+    "section_title": "Bundled Accessories",
+    "content": null,
+    "source_model": "ThinkPad E14 Gen 5 (Intel)",
+    "source_citations": [],
+    "subfeatures": [
+      {
+        "content": "Lenovo 15.6\" laptop casual toploader, polyester, black",
+        "source_citations": [291]
+      },
+      {
+        "content": "None",
+        "source_citations": [291]
+      }
+    ]
+  },
+  {
+    "section_title": "Operating Environment",
+    "content": "Maximum altitude (without pressurization): 3048 m (10,000 ft). Note: When charging the battery, its temperature must be no lower than $10^{\\circ}C$ $(50^{\\circ}F)$.",
+    "source_model": "ThinkPad E14 Gen 5 (Intel)",
+    "source_citations": [304, 306],
+    "subfeatures": [
+      {
+        "content": "Operating Temperature: $5^{\\circ}C$ $(41^{\\circ}F)$ to $35^{\\circ}C$ $(95^{\\circ}F)$",
+        "source_citations": [298]
+      },
+      {
+        "content": "Storage and transportation in original shipping package: $-20^{\\circ}C$ $(-4^{\\circ}F)$ to $60^{\\circ}C$ $(140^{\\circ}F)$",
+        "source_citations": [299]
+      },
+      {
+        "content": "Storage without package: $5^{\\circ}C$ $(41^{\\circ}F)$ to $43^{\\circ}C$ $(109^{\\circ}F)$",
+        "source_citations": [299]
+      },
+      {
+        "content": "Operating Relative Humidity: 8% to 95% at wet-bulb temperature $23^{\\circ}C$ $(73^{\\circ}F)$",
+        "source_citations": [301]
+      },
+      {
+        "content": "Storage and transportation Relative Humidity: 5% to 95% at wet-bulb temperature $27^{\\circ}C$ $(81^{\\circ}F)$",
+        "source_citations": [302]
+      }
+    ]
+  },
+  {
+    "section_title": "Sustainability",
+    "content": "The system utilizes Post Consumer Content (PCC) recycled plastic in several components and uses low-temperature solder.",
+    "source_model": "ThinkPad E14 Gen 5 (Intel)",
+    "source_citations": [310, 311, 312, 313, 315],
+    "subfeatures": [
+      {
+        "content": "25% PCC recycled plastic used in the battery pack enclosure",
+        "source_citations": [310]
+      },
+      {
+        "content": "30% PCC recycled plastic used in speaker enclosure",
+        "source_citations": [311]
+      },
+      {
+        "content": "90% PCC recycled plastic used in standard 65W adapter",
+        "source_citations": [312]
+      }
+    ]
+  },
+  {
+    "section_title": "Certifications",
+    "content": "Other Certifications: MIL-STD-810H military test passed. (Optional) Eyesafe Certified 2.0. (Optional) TÜV Rheinland Low Blue Light (Hardware Solution). (Optional) TÜV Rheinland Low Blue Light (Software Solution).",
+    "source_model": "ThinkPad E14 Gen 5 (Intel)",
+    "source_citations": [335, 340, 341, 341],
+    "subfeatures": [
+      {
+        "content": "Green Certifications: ENERGY STAR 8.0",
+        "source_citations": [319]
+      },
+      {
+        "content": "Green Certifications: EPEAT™ Gold Registered",
+        "source_citations": [320, 332]
+      },
+      {
+        "content": "Green Certifications: ErP Lot 6/26",
+        "source_citations": [321]
+      },
+      {
+        "content": "Green Certifications: FSC certified package",
+        "source_citations": [322]
+      },
+      {
+        "content": "Green Certifications: RoHS compliant",
+        "source_citations": [323]
+      },
+      {
+        "content": "Green Certifications: TCO Certified 9.0",
+        "source_citations": [324]
+      }
+    ]
+  }
+]

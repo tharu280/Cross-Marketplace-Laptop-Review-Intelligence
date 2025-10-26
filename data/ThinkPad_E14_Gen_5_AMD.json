@@ -1,0 +1,420 @@
+[
+  {
+    "section_title": "Ports and Slots",
+    "content": "A detailed listing of the ports on the ThinkPad E14 Gen 5 (AMD) chassis. Standard Ports (Full List with Specifications): 1x USB 3.2 Gen 1, 1x USB 3.2 Gen 1 (Always On), 1x USB-C 3.2 Gen 1 (support data transfer only), 1x USB-C 3.2 Gen 2 (support data transfer, Power Delivery 3.0 and DisplayPort™ 1.4), 1x HDMI 2.1, up to 4K/60Hz, 1x Headphone/microphone combo jack (3.5mm), 1x Ethernet (RJ-45). The transfer speed of these ports will vary depending on factors like the host device's processing speed and file attributes, and may be slower than the theoretical speed. Theoretical maximum speeds are: USB 2.0: 480 Mbit/s; USB 3.2 Gen 1: 5 Gbit/s; USB 3.2 Gen 2: 10 Gbit/s; USB4 40Gbps / Thunderbolt™ 3/4: 40 Gbit/s.",
+    "source_model": "Lenovo ThinkPad E14 Gen 5 (AMD)",
+    "source_citations": [],
+    "subfeatures": [
+      {
+        "content": "USB 3.2 Gen 1",
+        "source_citations": []
+      },
+      {
+        "content": "Ethernet (RJ-45)",
+        "source_citations": []
+      },
+      {
+        "content": "Kensington Nano Security Slot",
+        "source_citations": []
+      },
+      {
+        "content": "USB-C 3.2 Gen 1",
+        "source_citations": []
+      },
+      {
+        "content": "USB-C 3.2 Gen 2",
+        "source_citations": []
+      },
+      {
+        "content": "USB 3.2 Gen 1 (Always On)",
+        "source_citations": []
+      },
+      {
+        "content": "HDMI",
+        "source_citations": []
+      },
+      {
+        "content": "Headphone / microphone combo jack (3.5mm)",
+        "source_citations": []
+      }
+    ]
+  },
+  {
+    "section_title": "Processor",
+    "content": "Processor Family: AMD Ryzen™ 3 / 5 / 7 Processor. The full processor specifications are detailed below.",
+    "source_model": "Lenovo ThinkPad E14 Gen 5 (AMD)",
+    "source_citations": [],
+    "subfeatures": [
+      {
+        "content": "AMD Ryzen™ 3 7330U: 4 Cores, 8 Threads, 2.3GHz Base / 4.3GHz Max, 2MB L2 / 8MB L3 Cache, AMD Radeon™ Graphics",
+        "source_citations": []
+      },
+      {
+        "content": "AMD Ryzen™ 5 5625U: 6 Cores, 12 Threads, 2.3GHz Base / 4.3GHz Max, 3MB L2 / 16MB L3 Cache, AMD Radeon™ Graphics",
+        "source_citations": []
+      },
+      {
+        "content": "AMD Ryzen™ 5 7430U: 6 Cores, 12 Threads, 2.3GHz Base / 4.3GHz Max, 3MB L2 / 16MB L3 Cache, AMD Radeon™ Graphics",
+        "source_citations": []
+      },
+      {
+        "content": "AMD Ryzen™ 5 7530U: 6 Cores, 12 Threads, 2.0GHz Base / 4.5GHz Max, 3MB L2 / 16MB L3 Cache, AMD Radeon™ Graphics",
+        "source_citations": []
+      },
+      {
+        "content": "AMD Ryzen™ 7 7730U: 8 Cores, 16 Threads, 2.0GHz Base / 4.5GHz Max, 4MB L2 / 16MB L3 Cache, AMD Radeon™ Graphics",
+        "source_citations": []
+      }
+    ]
+  },
+  {
+    "section_title": "Operating System",
+    "content": "Available operating system options are: Windows® 11 Pro, Windows® 11 Home, Windows® 11 Home Single Language, Windows® 11 DG Windows® 10 Pro 64 (for special bid only), or No preload operating system.",
+    "source_model": "Lenovo ThinkPad E14 Gen 5 (AMD)",
+    "source_citations": [],
+    "subfeatures": [
+      {
+        "content": "Windows® 11 Pro",
+        "source_citations": []
+      },
+      {
+        "content": "Windows® 11 Home",
+        "source_citations": []
+      },
+      {
+        "content": "Windows® 11 Home Single Language",
+        "source_citations": []
+      },
+      {
+        "content": "Windows® 11 DG Windows® 10 Pro 64 (for special bid only)",
+        "source_citations": []
+      },
+      {
+        "content": "No preload operating system",
+        "source_citations": []
+      }
+    ]
+  },
+  {
+    "section_title": "Graphics",
+    "content": "Graphics: AMD Radeon™ Graphics, Integrated, Shared Memory, Share CPU TDP, DirectX® 12.",
+    "source_model": "Lenovo ThinkPad E14 Gen 5 (AMD)",
+    "source_citations": [],
+    "subfeatures": null
+  },
+  {
+    "section_title": "Monitor Support",
+    "content": "Supports up to 4 independent displays (native display and 3 external monitors via HDMI® and USB-C®).",
+    "source_model": "Lenovo ThinkPad E14 Gen 5 (AMD)",
+    "source_citations": [],
+    "subfeatures": [
+      {
+        "content": "HDMI® supports up to $4096\\times2160@30$Hz",
+        "source_citations": []
+      },
+      {
+        "content": "USB-C® supports up to $5120\\times2160@60$Hz",
+        "source_citations": []
+      }
+    ]
+  },
+  {
+    "section_title": "Chipset",
+    "content": "AMD SoC (System on Chip) platform.",
+    "source_model": "Lenovo ThinkPad E14 Gen 5 (AMD)",
+    "source_citations": [],
+    "subfeatures": null
+  },
+  {
+    "section_title": "Memory",
+    "content": "Max Memory: Up to 40GB (8GB soldered + 32GB SO-DIMM) DDR4-3200. Memory Slots: One memory soldered to systemboard, one DDR4 SO-DIMM slot, dual-channel capable. Memory Type: DDR4-3200.",
+    "source_model": "Lenovo ThinkPad E14 Gen 5 (AMD)",
+    "source_citations": [],
+    "subfeatures": [
+      {
+        "content": "Max Memory: Up to 40GB (8GB soldered + 32GB SO-DIMM) DDR4-3200",
+        "source_citations": []
+      },
+      {
+        "content": "Memory Slots: One memory soldered to systemboard, one DDR4 SO-DIMM slot, dual-channel capable",
+        "source_citations": []
+      },
+      {
+        "content": "Memory Type: DDR4-3200",
+        "source_citations": []
+      }
+    ]
+  },
+  {
+    "section_title": "Storage",
+    "content": "Max Storage Support: Up to two drives, $2\\times$ M.2 SSD. Storage Slots: Two M.2 slots: One M.2 2242 PCIe 3.0 x4 slot and one M.2 2280 PCIe 3.0 x4 slot. The M.2 2280 slot supports an M.2 2242 SSD (up to 512GB) or an M.2 2280 SSD (up to 1TB).",
+    "source_model": "Lenovo ThinkPad E14 Gen 5 (AMD)",
+    "source_citations": [],
+    "subfeatures": [
+      {
+        "content": "M.2 2242 SSD up to 512GB, PCIe NVMe, PCIe 3.0 x4 interface",
+        "source_citations": []
+      },
+      {
+        "content": "M.2 2280 SSD up to 1TB, PCIe NVMe, PCIe 3.0 x4 interface",
+        "source_citations": []
+      }
+    ]
+  },
+  {
+    "section_title": "Removable Storage",
+    "content": "Card Reader: No card reader.",
+    "source_model": "Lenovo ThinkPad E14 Gen 5 (AMD)",
+    "source_citations": [],
+    "subfeatures": null
+  },
+  {
+    "section_title": "Audio and Camera",
+    "content": "Audio Chip: High Definition (HD) Audio, Realtek ALC3287 codec. Speakers: Stereo speakers, $2\\text{W}\\times2$, Dolby Audio™. Microphone: Dual-microphone array, Dolby Voice.",
+    "source_model": "Lenovo ThinkPad E14 Gen 5 (AMD)",
+    "source_citations": [],
+    "subfeatures": [
+      {
+        "content": "Camera: HD 720p, with privacy shutter, fixed focus",
+        "source_citations": []
+      },
+      {
+        "content": "Camera: FHD 1080p, with privacy shutter, fixed focus",
+        "source_citations": []
+      }
+    ]
+  },
+  {
+    "section_title": "Battery and Power Adapter",
+    "content": "Battery Options: Integrated Li-Polymer 47Wh or 57Wh battery, both support Rapid Charge (charge up to 80% in 1hr). Rapid charge is only guaranteed when the computer is turned off, in standby, or in hibernation mode.",
+    "source_model": "Lenovo ThinkPad E14 Gen 5 (AMD)",
+    "source_citations": [],
+    "subfeatures": [
+      {
+        "content": "Power Adapter: 65W USB-C (2-pin or 3-pin), supports PD 3.0, 100-240V, 50-60Hz.",
+        "source_citations": []
+      },
+      {
+        "content": "Battery Life (MobileMark 2018, 57Wh): up to 12.6 hr. (Note: Battery life varies significantly with settings, usage, and other factors.)",
+        "source_citations": []
+      }
+    ]
+  },
+  {
+    "section_title": "Display",
+    "content": "Screen-to-Body Ratio: 90%. Touchscreen: On-cell multi-touch, supports 10-point touch, or Non-touch.",
+    "source_model": "Lenovo ThinkPad E14 Gen 5 (AMD)",
+    "source_citations": [],
+    "subfeatures": [
+      {
+        "content": "14\" WUXGA ($1920\\times1200$): Non-touch, IPS, 300nits, Anti-glare, 16:10, 800:1 Contrast, 45% NTSC, 60Hz, TÜV Low Blue Light (Software)",
+        "source_citations": []
+      },
+      {
+        "content": "14\" WUXGA ($1920\\times1200$): Multi-touch, IPS, 300nits, Anti-glare, 16:10, 800:1 Contrast, 45% NTSC, 60Hz, TÜV Low Blue Light (Software)",
+        "source_citations": []
+      },
+      {
+        "content": "14\" 2.2K ($2240\\times1400$): Non-touch, IPS, 300nits, Anti-glare, 16:10, 1500:1 Contrast, 100% SRGB, 60Hz, Eyesafe Certified 2.0",
+        "source_citations": []
+      }
+    ]
+  },
+  {
+    "section_title": "Input Devices",
+    "content": "Keyboard: 6-row, spill-resistant, multimedia Fn keys with Unified Communications controls. UltraNav™: TrackPoint pointing device and Mylar surface multi-touch 3-button Trackpad, $56 \\times 115$ mm ($2.24 \\times 4.53$ inches).",
+    "source_model": "Lenovo ThinkPad E14 Gen 5 (AMD)",
+    "source_citations": [],
+    "subfeatures": [
+      {
+        "content": "Keyboard Backlight: LED backlight or Non-backlight options.",
+        "source_citations": []
+      }
+    ]
+  },
+  {
+    "section_title": "Connectivity (WLAN, WWAN, Ethernet)",
+    "content": "WWAN: No support. SIM Card: No physical SIM card inbox. NFC: No support.",
+    "source_model": "Lenovo ThinkPad E14 Gen 5 (AMD)",
+    "source_citations": [],
+    "subfeatures": [
+      {
+        "content": "Ethernet: Gigabit Ethernet, Realtek RTL8111H-CG, $1\\times$ RJ-45, supports Wake-on-LAN.",
+        "source_citations": []
+      },
+      {
+        "content": "WLAN + Bluetooth: Wi-Fi 6, 802.11ax $2\\times2$ Wi-Fi + Bluetooth 5.1, M.2 card",
+        "source_citations": []
+      },
+      {
+        "content": "WLAN + Bluetooth: Wi-Fi 6E, 802.11ax $2\\times2$ Wi-Fi + Bluetooth 5.1, M.2 card (Bluetooth 5.3 hardware ready)",
+        "source_citations": []
+      },
+      {
+        "content": "WLAN + Bluetooth: Wi-Fi 6E, 802.11ax $2\\times2$ Wi-Fi + Bluetooth 5.1, M.2 card",
+        "source_citations": []
+      }
+    ]
+  },
+  {
+    "section_title": "Docking",
+    "content": "Various docking solutions supported via USB-C®.",
+    "source_model": "Lenovo ThinkPad E14 Gen 5 (AMD)",
+    "source_citations": [],
+    "subfeatures": null
+  },
+  {
+    "section_title": "Security and Privacy",
+    "content": "Other Security: ThinkShield, Camera privacy shutter, (Optional) IR camera for Windows Hello (facial recognition).",
+    "source_model": "Lenovo ThinkPad E14 Gen 5 (AMD)",
+    "source_citations": [],
+    "subfeatures": [
+      {
+        "content": "Security Chip: Firmware TPM 2.0 integrated in SoC or Discrete TPM 2.0, TCG certified, FIPS 140-2 certified",
+        "source_citations": []
+      },
+      {
+        "content": "Physical Lock: Kensington Nano Security Slot™, $2.5 \\times 6$ mm",
+        "source_citations": []
+      },
+      {
+        "content": "Smart Card Reader: No smart card reader",
+        "source_citations": []
+      },
+      {
+        "content": "Fingerprint Reader: Touch style fingerprint reader integrated in power button or No fingerprint reader",
+        "source_citations": []
+      },
+      {
+        "content": "BIOS Security: NVMe password, Power-on password, Supervisor password, Self-healing BIOS",
+        "source_citations": []
+      }
+    ]
+  },
+  {
+    "section_title": "Physical Specifications (Dimensions and Weight)",
+    "content": "Dimensions (W x D x H): $313 \\times 219.3 \\times 17.99$ mm ($12.32 \\times 8.63 \\times 0.71$ inches) (dimensions may vary depending on configurations). Case Color options: Arctic grey and Graphite black.",
+    "source_model": "Lenovo ThinkPad E14 Gen 5 (AMD)",
+    "source_citations": [],
+    "subfeatures": [
+      {
+        "content": "Case Material: Aluminium (top), PC-ABS (bottom) | Weight: Starting at 1.41 kg (3.11 lbs)",
+        "source_citations": []
+      },
+      {
+        "content": "Case Material: Aluminium (top), aluminium (bottom) | Weight: Starting at 1.43 kg (3.15 lbs)",
+        "source_citations": []
+      }
+    ]
+  },
+  {
+    "section_title": "System Management",
+    "content": "System management options include Non-vPro.",
+    "source_model": "Lenovo ThinkPad E14 Gen 5 (AMD)",
+    "source_citations": [],
+    "subfeatures": null
+  },
+  {
+    "section_title": "Operating Environment",
+    "content": "Maximum altitude (without pressurization): 3048 m (10,000 ft). Operating Temperature: $5^{\\circ}C$ $(41^{\\circ}F)$ to $35^{\\circ}C$ $(95^{\\circ}F)$. Storage and transportation in original shipping package: $-20^{\\circ}C$ $(-4^{\\circ}F)$ to $60^{\\circ}C$ $(140^{\\circ}F)$. Storage without package: $5^{\\circ}C$ $(41^{\\circ}F)$ to $43^{\\circ}C$ $(109^{\\circ}F)$. Operating Relative Humidity: 8% to 95% at wet-bulb temperature $23^{\\circ}C$ $(73^{\\circ}F)$. Storage and transportation Relative Humidity: 5% to 95% at wet-bulb temperature $27^{\\circ}C$ $(81^{\\circ}F)$.",
+    "source_model": "Lenovo ThinkPad E14 Gen 5 (AMD)",
+    "source_citations": [],
+    "subfeatures": null
+  },
+  {
+    "section_title": "Sustainability",
+    "content": "The system utilizes Post Consumer Content (PCC) recycled plastic in several components and uses low-temperature solder.",
+    "source_model": "Lenovo ThinkPad E14 Gen 5 (AMD)",
+    "source_citations": [],
+    "subfeatures": [
+      {
+        "content": "25% PCC recycled plastic used in the battery pack enclosure",
+        "source_citations": []
+      },
+      {
+        "content": "30% PCC recycled plastic used in speaker enclosure",
+        "source_citations": []
+      },
+      {
+        "content": "90% PCC recycled plastic used in standard 65W adapter",
+        "source_citations": []
+      }
+    ]
+  },
+  {
+    "section_title": "Warranty",
+    "content": null,
+    "source_model": "Lenovo ThinkPad E14 Gen 5 (AMD)",
+    "source_citations": [],
+    "subfeatures": [
+      {
+        "content": "1-year mail-in service",
+        "source_citations": []
+      },
+      {
+        "content": "1-year courier or carry-in service",
+        "source_citations": []
+      },
+      {
+        "content": "1-year courier or carry-in with 2-year system board service (Korea only)",
+        "source_citations": []
+      },
+      {
+        "content": "1-year limited onsite service",
+        "source_citations": []
+      },
+      {
+        "content": "No base warranty",
+        "source_citations": []
+      }
+    ]
+  },
+  {
+    "section_title": "Bundled Accessories",
+    "content": null,
+    "source_model": "Lenovo ThinkPad E14 Gen 5 (AMD)",
+    "source_citations": [],
+    "subfeatures": [
+      {
+        "content": "Lenovo 15.6\" laptop casual toploader, polyester, black",
+        "source_citations": []
+      },
+      {
+        "content": "None",
+        "source_citations": []
+      }
+    ]
+  },
+  {
+    "section_title": "Certifications",
+    "content": "Other Certifications: MIL-STD-810H military test passed. (Optional) Eyesafe Certified 2.0. (Optional) TÜV Rheinland Low Blue Light (Hardware Solution). (Optional) TÜV Rheinland Low Blue Light (Software Solution).",
+    "source_model": "Lenovo ThinkPad E14 Gen 5 (AMD)",
+    "source_citations": [],
+    "subfeatures": [
+      {
+        "content": "Green Certifications: ENERGY STAR 8.0",
+        "source_citations": []
+      },
+      {
+        "content": "Green Certifications: EPEAT™ Gold Registered",
+        "source_citations": []
+      },
+      {
+        "content": "Green Certifications: ErP Lot 3/7",
+        "source_citations": []
+      },
+      {
+        "content": "Green Certifications: FSC certified package",
+        "source_citations": []
+      },
+      {
+        "content": "Green Certifications: RoHS compliant",
+        "source_citations": []
+      },
+      {
+        "content": "Green Certifications: TCO Certified 9.0",
+        "source_citations": []
+      }
+    ]
+  }
+]

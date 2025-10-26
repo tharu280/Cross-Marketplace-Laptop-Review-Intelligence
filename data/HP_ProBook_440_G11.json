@@ -1,0 +1,341 @@
+[
+  {
+    "section_title": "Operating Systems",
+    "content": "Available Operating Systems are: Windows 11 Pro, Windows 11 Pro Education, Windows 11 Home - HP recommends Windows 11 Pro for business, Windows 11 Home Single Language - HP recommends Windows 11 Pro for business, Windows 11 Pro (Windows 11 Enterprise or Windows 10 Enterprise available with a Volume Licensing Agreement), and FreeDOS.",
+    "source_model": "HP ProBook 440 14 inch G11 Notebook PC",
+    "source_citations": [241],
+    "subfeatures": [
+      {
+        "content": "Windows 11 Pro",
+        "source_citations": []
+      },
+      {
+        "content": "Windows 11 Pro Education",
+        "source_citations": []
+      },
+      {
+        "content": "Windows 11 Home",
+        "source_citations": []
+      },
+      {
+        "content": "Windows 11 Home Single Language",
+        "source_citations": []
+      },
+      {
+        "content": "Windows 11 Pro (Windows 11 Enterprise or Windows 10 Enterprise available with a Volume Licensing Agreement)",
+        "source_citations": []
+      },
+      {
+        "content": "FreeDOS",
+        "source_citations": []
+      }
+    ]
+  },
+  {
+    "section_title": "Processor",
+    "content": "Processor family: Intel Core™ Ultra 5 processor or Intel Core™ Ultra 7 processor.",
+    "source_model": "HP ProBook 440 14 inch G11 Notebook PC",
+    "source_citations": [241],
+    "subfeatures": [
+      {
+        "content": "Intel® Core™ Ultra 7 155H (up to 3.8 GHz E-core Max Turbo frequency, up to 4.8 GHz P-core Max Turbo frequency, 24 MB L3 cache, 6 P-cores and 8 E-cores, 22 threads)",
+        "source_citations": [241]
+      },
+      {
+        "content": "Intel Core™ Ultra 5 125H (up to 3.6 GHz E-core Max Turbo frequency, up to 4.5 GHz P-core Max Turbo frequency, 18 MB L3 cache, 4 P-cores and 8 E-cores, 18 threads)",
+        "source_citations": [241]
+      },
+      {
+        "content": "Intel® Core™ Ultra 7 155U (up to 3.8 GHz E-core Max Turbo frequency, up to 4.8 GHz P-core Max Turbo frequency, 12 MB L3 cache, 2 P-cores and 8 E-cores, 14 threads)",
+        "source_citations": [241]
+      },
+      {
+        "content": "Intel Core™ Ultra 5 125U (up to 3.6 GHz E-core Max Turbo frequency, up to 4.3 GHz P-core Max Turbo frequency, 12 MB L3 cache, 2 P-cores and 8 E-cores, 14 threads)",
+        "source_citations": [241]
+      }
+    ]
+  },
+  {
+    "section_title": "Memory",
+    "content": "Maximum memory is 32 GB DDR5-5600 MT/s RAM. Transfer rates are up to 5600 MT/s, and the system supports dual channel memory. Memory slots: 2 SODIMM.",
+    "source_model": "HP ProBook 440 14 inch G11 Notebook PC",
+    "source_citations": [241, 241, 241],
+    "subfeatures": [
+      {
+        "content": "Maximum: 32 GB DDR5-5600 MT/s RAM",
+        "source_citations": []
+      },
+      {
+        "content": "Dual channel support",
+        "source_citations": []
+      },
+      {
+        "content": "2 SODIMM slots",
+        "source_citations": []
+      }
+    ]
+  },
+  {
+    "section_title": "Storage",
+    "content": "Internal storage options include PCIe Gen4x4 NVMe™ M.2 SSD or PCIe NVMe™ Value SSD.",
+    "source_model": "HP ProBook 440 14 inch G11 Notebook PC",
+    "source_citations": [241],
+    "subfeatures": [
+      {
+        "content": "512 GB up to 1 TB PCIe Gen4x4 NVMe™ M.2 SSD",
+        "source_citations": [241]
+      },
+      {
+        "content": "up to 256 GB PCIe NVMe™ Value SSD",
+        "source_citations": [241]
+      }
+    ]
+  },
+  {
+    "section_title": "Display",
+    "content": "Display size (diagonal, metric) is 35.6 cm (14\"). The aspect ratio is 16:10.",
+    "source_model": "HP ProBook 440 14 inch G11 Notebook PC",
+    "source_citations": [241, 191],
+    "subfeatures": [
+      {
+        "content": "14\" diagonal, WUXGA (1920 x 1200), IPS, anti-glare, 400 nits, low power, 100% sRGB with HP Eye Ease",
+        "source_citations": [241]
+      },
+      {
+        "content": "14\" diagonal, WUXGA (1920 x 1200), IPS, anti-glare, 300 nits, 45% NTSC",
+        "source_citations": [241]
+      },
+      {
+        "content": "14\" diagonal, WUXGA (1920 x 1200), touch, IPS, anti-glare, 300 nits, 45% NTSC",
+        "source_citations": [241]
+      },
+      {
+        "content": "14\" diagonal, WQXGA (2560 x 1600), IPS, anti-glare, 500 nits, 100% DCI-P3",
+        "source_citations": [241]
+      }
+    ]
+  },
+  {
+    "section_title": "Graphics",
+    "content": "The system includes Integrated or Discrete graphics options (Supports DX12 and HDMI 2.1).",
+    "source_model": "HP ProBook 440 14 inch G11 Notebook PC",
+    "source_citations": [241],
+    "subfeatures": [
+      {
+        "content": "Integrated: Intel® Arc™ Graphics",
+        "source_citations": [241]
+      },
+      {
+        "content": "Integrated: Intel Graphics",
+        "source_citations": [241]
+      },
+      {
+        "content": "Discrete: NVIDIA GeForce RTX™ 2050 Laptop GPU (4 GB GDDR6 dedicated)",
+        "source_citations": [241, 219]
+      }
+    ]
+  },
+  {
+    "section_title": "Audio",
+    "content": "Audio is by Poly Studio, with dual stereo speakers featuring discrete amplifiers, and integrated dual array microphones.",
+    "source_model": "HP ProBook 440 14 inch G11 Notebook PC",
+    "source_citations": [241],
+    "subfeatures": null
+  },
+  {
+    "section_title": "Ports and Connectors",
+    "content": "Standard ports include USB Type-C, USB Type-A, HDMI, a combo audio jack, and RJ-45 (HDMI cable sold separately).",
+    "source_model": "HP ProBook 440 14 inch G11 Notebook PC",
+    "source_citations": [241],
+    "subfeatures": [
+      {
+        "content": "2 USB Type-C 20Gbps signaling rate (USB Power Delivery, DisplayPort™ 1.4, HP Sleep and Charge)",
+        "source_citations": [241]
+      },
+      {
+        "content": "2 USB Type-A 5Gbps signaling rate (1 charging, 1 power)",
+        "source_citations": [241]
+      },
+      {
+        "content": "1 HDMI 2.1",
+        "source_citations": [241]
+      },
+      {
+        "content": "1 stereo headphone/microphone combo jack",
+        "source_citations": [241]
+      },
+      {
+        "content": "1 RJ-45 (Ethernet)",
+        "source_citations": [241]
+      }
+    ]
+  },
+  {
+    "section_title": "Input Devices",
+    "content": "Input devices include a spill-resistant, optional backlit keyboard with DuraKeys, and a Clickpad with multi-touch gesture support, Microsoft Precision Touchpad.",
+    "source_model": "HP ProBook 440 14 inch G11 Notebook PC",
+    "source_citations": [241],
+    "subfeatures": null
+  },
+  {
+    "section_title": "Connectivity",
+    "content": "The system is compatible with Miracast-certified devices. WWAN is an optional feature.",
+    "source_model": "HP ProBook 440 14 inch G11 Notebook PC",
+    "source_citations": [241, 268],
+    "subfeatures": [
+      {
+        "content": "WLAN/Bluetooth: Intel Wi-Fi 6E AX211 (2x2) and Bluetooth 5.3 wireless card",
+        "source_citations": [241]
+      },
+      {
+        "content": "WLAN/Bluetooth: Realtek Wi-Fi 6E RTL8852CE 802.11a/b/g/n/ax (2x2) and Bluetooth™ 5.3 wireless card",
+        "source_citations": [241]
+      },
+      {
+        "content": "WWAN (optional): Qualcomm 9205 LTE Cat-M1",
+        "source_citations": [241]
+      },
+      {
+        "content": "WWAN (optional): HP 4000 4G LTE Advanced Pro",
+        "source_citations": [241]
+      }
+    ]
+  },
+  {
+    "section_title": "Camera",
+    "content": "Available camera options are FHD or 5 MP IR cameras (select models).",
+    "source_model": "HP ProBook 440 14 inch G11 Notebook PC",
+    "source_citations": [241],
+    "subfeatures": [
+      {
+        "content": "FHD camera (select models)",
+        "source_citations": [241]
+      },
+      {
+        "content": "5 MP IR camera (select models)",
+        "source_citations": [241, 217]
+      }
+    ]
+  },
+  {
+    "section_title": "Memory Card Device",
+    "content": "Optional: 1 nano SIM slot.",
+    "source_model": "HP ProBook 440 14 inch G11 Notebook PC",
+    "source_citations": [248],
+    "subfeatures": null
+  },
+  {
+    "section_title": "Power Adapter",
+    "content": "Available power adapters include 45 W, 65 W, and 100 W USB Type-C adapters.",
+    "source_model": "HP ProBook 440 14 inch G11 Notebook PC",
+    "source_citations": [248],
+    "subfeatures": [
+      {
+        "content": "45 W USB Type-C adapter",
+        "source_citations": [248]
+      },
+      {
+        "content": "65 W USB Type-C adapter",
+        "source_citations": [248]
+      },
+      {
+        "content": "HP 100 W USB Type-C slim adapter",
+        "source_citations": [248]
+      },
+      {
+        "content": "HP 65 W USB Type-C Halogen-free adapter",
+        "source_citations": [248]
+      }
+    ]
+  },
+  {
+    "section_title": "Battery",
+    "content": "HP Long Life 3-cell, 56 Wh Li-ion polymer battery. The battery is internal and not replaceable by the customer but is serviceable by warranty. It supports fast charging of 50% in 30 minutes.",
+    "source_model": "HP ProBook 440 14 inch G11 Notebook PC",
+    "source_citations": [248, 248, 248],
+    "subfeatures": null
+  },
+  {
+    "section_title": "Dimensions",
+    "content": "Dimensions (W x D x H) are $31.86 \\times 22.44 \\times 1.09$ cm (front) and $31.86 \\times 22.43 \\times 1.7$ cm (rear) or $12.54 \\times 8.83 \\times 0.43$ in (front) and $12.54 \\times 8.83 \\times 0.67$ in (rear).",
+    "source_model": "HP ProBook 440 14 inch G11 Notebook PC",
+    "source_citations": [248],
+    "subfeatures": null
+  },
+  {
+    "section_title": "Weight",
+    "content": "Starting at 3.08 lb or 1.39 kg (Weight will vary by configuration. Does not include power adapter.).",
+    "source_model": "HP ProBook 440 14 inch G11 Notebook PC",
+    "source_citations": [248],
+    "subfeatures": null
+  },
+  {
+    "section_title": "Software",
+    "content": "Software includes Adobe offer, Buy Office, HP Connection Optimizer, HP Easy Clean, HP Easy Clean Keyboard Driver, HP MAC Address Manager, Copilot in Windows with Copilot key, HP PC Hardware Diagnostics UEFI, HP PC Hardware Diagnostics Windows, HP Power Manager, HP Privacy Settings, HP Services Scan, HP Smart Support, HP Support Assistant, HSA Fusion for Commercial, HSA Telemetry for Commercial, myHP, and Miro offer.",
+    "source_model": "HP ProBook 440 14 inch G11 Notebook PC",
+    "source_citations": [241],
+    "subfeatures": null
+  },
+  {
+    "section_title": "Security Management",
+    "content": "Security features include HP Client Security Manager, HP Sure Admin, HP Sure Click, HP Sure Recover Gen6, HP Sure Run Gen5, HP Sure Sense, HP Sure Start Gen7, HP Tamper Lock, Secured-Core PC Enable, TPM 2.0 Embedded Security Chip (Common Criteria EAL4+ Certified) (FIPS 140-2 Level 2 Certified), Absolute Persistence Module, BIOS Update via Network, HP BIOSphere Gen6, HP DriveLock and Automatic DriveLock, HP Secure Erase, HP Wake on WLAN Windows Hello Enhanced Sign-in Security (ESS) Enable, Security lock slot, and HP Endpoint Security Controller (ESC-5).",
+    "source_model": "HP ProBook 440 14 inch G11 Notebook PC",
+    "source_citations": [241],
+    "subfeatures": null
+  },
+  {
+    "section_title": "Security Software Licenses",
+    "content": "HP Wolf Pro Security Edition.",
+    "source_model": "HP ProBook 440 14 inch G11 Notebook PC",
+    "source_citations": [241],
+    "subfeatures": null
+  },
+  {
+    "section_title": "Fingerprint Reader",
+    "content": "Fingerprint sensor (select models).",
+    "source_model": "HP ProBook 440 14 inch G11 Notebook PC",
+    "source_citations": [241],
+    "subfeatures": null
+  },
+  {
+    "section_title": "Management Features",
+    "content": "Management features include: HP Client Catalog (download), HP Cloud Recovery, HP Connect for Microsoft Endpoint Manager, HP Client Management Script Library (download), HP Driver Packs download(), HP Image Assistant (download), HP Manageability Integration Kit (download), and HP Patch Assistant (download).",
+    "source_model": "HP ProBook 440 14 inch G11 Notebook PC",
+    "source_citations": [248],
+    "subfeatures": null
+  },
+  {
+    "section_title": "Certifications",
+    "content": "The PC is ENERGY STAR® certified. Compliance certifications include GS Mark, CSA/UL 62368-1, FCC/ICES/CISPR/VCCI, CE Marking, China CCC/SRRC, Taiwan BSMI/NCC, Korea KCC/KC/KES, Ukraine NSOC/TEC, EAEU Compliance, Saudi Arabian Compliance, Low blue light, and WW ROHS.",
+    "source_model": "HP ProBook 440 14 inch G11 Notebook PC",
+    "source_citations": [248, 248],
+    "subfeatures": [
+      {
+        "content": "EPEAT® registered configurations available",
+        "source_citations": [248]
+      },
+      {
+        "content": "TCO Certified configurations available",
+        "source_citations": [248]
+      },
+      {
+        "content": "EPEAT Gold registered in the U.S.",
+        "source_citations": [248]
+      }
+    ]
+  },
+  {
+    "section_title": "Sustainability",
+    "content": "Sustainable Impact specifications include Low halogen, Bulk packaging, 100% sustainably sourced and recyclable molded paper pulp cushion, 100% sustainably sourced and recyclable outside box and corrugated cushions, 20% post-consumer recycled plastic, Ocean-bound plastic in speaker enclosure and system fan, and 50% recycled metal. The chassis contains 50 percent post-industrial recycled stamped aluminum.",
+    "source_model": "HP ProBook 440 14 inch G11 Notebook PC",
+    "source_citations": [248, 202],
+    "subfeatures": null
+  },
+  {
+    "section_title": "Warranty",
+    "content": "1-year warranty and 90 day software limited warranty options depending on country. Batteries have a default one year limited warranty. On-site service and extended coverage is also available. HP Care Pack Services are optional extended service contracts.",
+    "source_model": "HP ProBook 440 14 inch G11 Notebook PC",
+    "source_citations": [248, 248, 248, 248],
+    "subfeatures": null
+  }
+]
