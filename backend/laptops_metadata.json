@@ -1,0 +1,2125 @@
+[
+  {
+    "sku": "ThinkPad E14 Gen 5 (Intel)",
+    "text": "A detailed listing of the ports on the ThinkPad E14 Gen 5 (Intel) chassis and their corresponding numbers in the image:\n1. USB 2.0 \n2. Ethernet (RJ-45) \n3. Kensington Nano Security Slot \n4. USB-C 3.2 Gen 2 \n5. Thunderbolt 4 \n6. USB 3.2 Gen 1 (Always On) \n7. HDMI \n8. Headphone / microphone combo jack (3.5mm) \nStandard Ports (Full List with Specifications):\n1x USB 2.0 \n1x USB 3.2 Gen 1 (Always On) \n1x USB-C 3.2 Gen 2 (support data transfer, Power Delivery 3.0 and DisplayPort\u2122 1.4) \n1x Thunderbolt\u2122 4/USB4 40Gbps (support data transfer, Power Delivery 3.0 and DisplayPort\u2122 1.4) \n1x HDMI 2.1, up to 4K/60Hz \n1x Headphone/microphone combo jack (3.5mm) \n1x Ethernet (RJ-45) \nThe transfer speed of these ports will vary depending on factors like the host device's processing speed and file attributes, and may be slower than the theoretical speed. Theoretical maximum speeds are: USB 2.0: 480 Mbit/s; USB 3.2 Gen 1: 5 Gbit/s; USB 3.2 Gen 2: 10 Gbit/s; USB4 40Gbps / Thunderbolt\u2122 3/4: 40 Gbit/s.",
+    "section_title": "Ports and Slots",
+    "citations": [
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      223,
+      224,
+      225,
+      226,
+      227,
+      228,
+      229,
+      231,
+      232,
+      233,
+      234,
+      236,
+      237
+    ]
+  },
+  {
+    "sku": "ThinkPad E14 Gen 5 (Intel)",
+    "text": "Processor Family: 13th Generation Intel U, P or H Series Core i3/i5/i7 Processor. The table below provides the full processor specifications. Note: Intel Iris Xe Graphics capability requires the system to be configured with dual-channel memory; on a system with single-channel memory, it will function as Intel UHD Graphics.",
+    "section_title": "Processor",
+    "citations": [
+      22,
+      29,
+      30
+    ]
+  },
+  {
+    "sku": "ThinkPad E14 Gen 5 (Intel)",
+    "text": "Core i3-1315U: 6 Cores (2 P-core + 4 E-core), 8 Threads, P-core Base 1.2GHz / E-core Base 0.9GHz, P-core Max 4.5GHz / E-core Max 3.3GHz, 10MB Cache, Intel UHD Graphics",
+    "section_title": "Processor",
+    "citations": [
+      27
+    ]
+  },
+  {
+    "sku": "ThinkPad E14 Gen 5 (Intel)",
+    "text": "Core i5-13350: 10 Cores (2 P-core + 8 E-core), 12 Threads, P-core Base 1.3GHz / E-core Base 0.9GHz, P-core Max 4.6GHz / E-core Max 3.4GHz, 12MB Cache, Intel Iris Xe Graphics",
+    "section_title": "Processor",
+    "citations": [
+      27
+    ]
+  },
+  {
+    "sku": "ThinkPad E14 Gen 5 (Intel)",
+    "text": "Core i5-1340P: 12 Cores (4 P-core + 8 E-core), 16 Threads, P-core Base 1.9GHz / E-core Base 1.4GHz, P-core Max 4.6GHz / E-core Max 3.4GHz, 12MB Cache, Intel Iris Xe Graphics",
+    "section_title": "Processor",
+    "citations": [
+      27
+    ]
+  },
+  {
+    "sku": "ThinkPad E14 Gen 5 (Intel)",
+    "text": "Core i5-13420H: 8 Cores (4 P-core + 4 E-core), 12 Threads, P-core Base 2.1GHz / E-core Base 1.5GHz, P-core Max 4.6GHz / E-core Max 3.4GHz, 12MB Cache, Intel UHD Graphics",
+    "section_title": "Processor",
+    "citations": [
+      27
+    ]
+  },
+  {
+    "sku": "ThinkPad E14 Gen 5 (Intel)",
+    "text": "Core i5-1345U: 10 Cores (2 P-core + 8 E-core), 12 Threads, P-core Base 1.6GHz / E-core Base 1.2GHz, P-core Max 4.7GHz / E-core Max 3.5GHz, 12MB Cache, Intel Iris Xe Graphics",
+    "section_title": "Processor",
+    "citations": [
+      27
+    ]
+  },
+  {
+    "sku": "ThinkPad E14 Gen 5 (Intel)",
+    "text": "Core i5-13500H: 12 Cores (4 P-core + 8 E-core), 16 Threads, P-core Base 2.6GHz / E-core Base 1.9GHz, P-core Max 4.7GHz / E-core Max 3.5GHz, 18MB Cache, Intel Iris Xe Graphics",
+    "section_title": "Processor",
+    "citations": [
+      27
+    ]
+  },
+  {
+    "sku": "ThinkPad E14 Gen 5 (Intel)",
+    "text": "Core i7-1355U: 10 Cores (2 P-core + 8 E-core), 12 Threads, P-core Base 1.7GHz / E-core Base 1.2GHz, P-core Max 5.0GHz / E-core Max 3.7GHz, 12MB Cache, Intel Iris Xe Graphics",
+    "section_title": "Processor",
+    "citations": [
+      27
+    ]
+  },
+  {
+    "sku": "ThinkPad E14 Gen 5 (Intel)",
+    "text": "Core i7-1360P: 12 Cores (4 P-core + 8 E-core), 16 Threads, P-core Base 2.2GHz / E-core Base 1.6GHz, P-core Max 5.0GHz / E-core Max 3.7GHz, 18MB Cache, Intel Iris Xe Graphics",
+    "section_title": "Processor",
+    "citations": [
+      27
+    ]
+  },
+  {
+    "sku": "ThinkPad E14 Gen 5 (Intel)",
+    "text": "Core i7-1365U: 10 Cores (2 P-core + 8 E-core), 12 Threads, P-core Base 1.8GHz / E-core Base 1.3GHz, P-core Max 5.2GHz / E-core Max 3.9GHz, 12MB Cache, Intel Iris Xe Graphics",
+    "section_title": "Processor",
+    "citations": [
+      27
+    ]
+  },
+  {
+    "sku": "ThinkPad E14 Gen 5 (Intel)",
+    "text": "Core i7-13700H: 14 Cores (6 P-core + 8 E-core), 20 Threads, P-core Base 2.4GHz / E-core Base 1.8GHz, P-core Max 5.0GHz / E-core Max 3.7GHz, 24MB Cache, Intel Iris Xe Graphics",
+    "section_title": "Processor",
+    "citations": [
+      27
+    ]
+  },
+  {
+    "sku": "ThinkPad E14 Gen 5 (Intel)",
+    "text": "Available operating system options are: Windows 11 Pro , Windows 11 Home , Windows 11 Home Single Language , Windows 11 DG Windows 10 Pro 64 (for special bid only) , Ubuntu Linux (some features may not be supported) , or No preload operating system.",
+    "section_title": "Operating System",
+    "citations": [
+      33,
+      34,
+      35,
+      36,
+      40,
+      37,
+      41,
+      38
+    ]
+  },
+  {
+    "sku": "ThinkPad E14 Gen 5 (Intel)",
+    "text": "The system includes one of the following graphics options. Note: Intel Iris Xe Graphics requires dual-channel memory; otherwise, it functions as Intel UHD Graphics.",
+    "section_title": "Graphics",
+    "citations": [
+      29,
+      30,
+      52,
+      53
+    ]
+  },
+  {
+    "sku": "ThinkPad E14 Gen 5 (Intel)",
+    "text": "Intel UHD Graphics: Integrated, Shared Memory, Share CPU TDP, DirectX\u00ae 12.1",
+    "section_title": "Graphics",
+    "citations": [
+      44
+    ]
+  },
+  {
+    "sku": "ThinkPad E14 Gen 5 (Intel)",
+    "text": "Intel Iris Xe Graphics: Integrated, Shared Memory, Share CPU TDP, DirectX\u00ae 12.1",
+    "section_title": "Graphics",
+    "citations": [
+      44
+    ]
+  },
+  {
+    "sku": "ThinkPad E14 Gen 5 (Intel)",
+    "text": "NVIDIA GeForce MX550: Discrete, 2GB GDDR6 Memory, DirectX\u00ae 12",
+    "section_title": "Graphics",
+    "citations": [
+      44
+    ]
+  },
+  {
+    "sku": "ThinkPad E14 Gen 5 (Intel)",
+    "text": "Supports up to 4 independent displays (native display and 3 external monitors) via HDMI, USB-C, and Thunderbolt\u2122 .\n- HDMI supports up to $4096\\times2160@60$Hz \n- USB-C supports up to $4096\\times2160@60$Hz \n- Thunderbolt\u2122 supports up to $5120\\times2880@60$Hz",
+    "section_title": "Monitor Support",
+    "citations": [
+      56,
+      57,
+      58,
+      59
+    ]
+  },
+  {
+    "sku": "ThinkPad E14 Gen 5 (Intel)",
+    "text": "Intel SoC (System on Chip) platform.",
+    "section_title": "Chipset",
+    "citations": [
+      62
+    ]
+  },
+  {
+    "sku": "ThinkPad E14 Gen 5 (Intel)",
+    "text": "Memory Type: DDR4-3200. The system has one memory soldered to the systemboard and one DDR4 SO-DIMM slot, making it dual-channel capable.",
+    "section_title": "Memory",
+    "citations": [
+      69,
+      67
+    ]
+  },
+  {
+    "sku": "ThinkPad E14 Gen 5 (Intel)",
+    "text": "Maximum Memory: Up to 40GB (8GB soldered + 32GB SO-DIMM) DDR4-3200",
+    "section_title": "Memory",
+    "citations": [
+      65
+    ]
+  },
+  {
+    "sku": "ThinkPad E14 Gen 5 (Intel)",
+    "text": "Maximum Memory: Up to 48GB (16GB soldered + 32GB SO-DIMM) DDR4-3200 (48GB is to test technical readiness; available memory to sell will vary)",
+    "section_title": "Memory",
+    "citations": [
+      65,
+      71
+    ]
+  },
+  {
+    "sku": "ThinkPad E14 Gen 5 (Intel)",
+    "text": "Max Storage Support: Up to two drives, 2x M.2 SSD , with M.2 2242 SSD up to 1TB each .\nStorage Slots: Two M.2 slots : One M.2 2242 PCIe 3.0 x4 slot  and one M.2 2242 PCIe 4.0 x4 slot. An M.2 PCIe 4.0 x4 SSD in the M.2 PCIe 3.0 x4 slot is downgraded to PCIe 3.0 x4 performance.",
+    "section_title": "Storage",
+    "citations": [
+      74,
+      75,
+      77,
+      78,
+      79,
+      89
+    ]
+  },
+  {
+    "sku": "ThinkPad E14 Gen 5 (Intel)",
+    "text": "M.2 2242 SSD: PCIe NVMe, PCIe 3.0 x4 interface, 128GB offering",
+    "section_title": "Storage",
+    "citations": [
+      81
+    ]
+  },
+  {
+    "sku": "ThinkPad E14 Gen 5 (Intel)",
+    "text": "M.2 2242 SSD: PCIe NVMe, PCIe 4.0 x4 interface, 256GB/512GB/1TB offering, Opal 2.0 Security",
+    "section_title": "Storage",
+    "citations": [
+      81
+    ]
+  },
+  {
+    "sku": "ThinkPad E14 Gen 5 (Intel)",
+    "text": "Card Reader: No card reader.",
+    "section_title": "Removable Storage",
+    "citations": [
+      92
+    ]
+  },
+  {
+    "sku": "ThinkPad E14 Gen 5 (Intel)",
+    "text": "Audio Chip: High Definition (HD) Audio, Synaptic CX11880 codec .\nSpeakers: Stereo speakers, 2W x2, Dolby Atmos .\nMicrophone: Dual-microphone array, Dolby Voice.",
+    "section_title": "Audio and Camera",
+    "citations": [
+      98,
+      99,
+      101
+    ]
+  },
+  {
+    "sku": "ThinkPad E14 Gen 5 (Intel)",
+    "text": "Camera Option: HD 720p, with privacy shutter, fixed focus",
+    "section_title": "Audio and Camera",
+    "citations": [
+      106
+    ]
+  },
+  {
+    "sku": "ThinkPad E14 Gen 5 (Intel)",
+    "text": "Camera Option: FHD 1080p + IR hybrid, with privacy shutter, fixed focus",
+    "section_title": "Audio and Camera",
+    "citations": [
+      107
+    ]
+  },
+  {
+    "sku": "ThinkPad E14 Gen 5 (Intel)",
+    "text": "Camera Option: FHD 1080p, with privacy shutter, fixed focus",
+    "section_title": "Audio and Camera",
+    "citations": [
+      108
+    ]
+  },
+  {
+    "sku": "ThinkPad E14 Gen 5 (Intel)",
+    "text": "Battery Options: 47Wh or 57Wh Rechargeable Li-ion Battery, both support Rapid Charge (charge up to 80% in 1hr). Rapid charge is only guaranteed when the computer is turned off, in standby, or in hibernation mode .\nPower Adapter: 65W USB-C (2-pin or 3-pin) AC adapter, supports PD 3.0, 100-240V, 50-60Hz.",
+    "section_title": "Battery and Power Adapter",
+    "citations": [
+      111,
+      128,
+      139
+    ]
+  },
+  {
+    "sku": "ThinkPad E14 Gen 5 (Intel)",
+    "text": "Configuration 1 (Max Battery Life - WUXGA non-touch, i3-1315U, 8GB DDR4, 57Wh): MobileMark 2018 up to 11.2 hr; MobileMark 25 up to 8.58 hr; JEITA 2.0 up to 15.2 hr; Local video playback up to 13.9 hr",
+    "section_title": "Battery and Power Adapter",
+    "citations": [
+      113,
+      114,
+      115,
+      116,
+      130
+    ]
+  },
+  {
+    "sku": "ThinkPad E14 Gen 5 (Intel)",
+    "text": "Alternate Configuration 2 (WUXGA touch, i5-1340P, 16GB DDR4, 57Wh): MobileMark 2018 up to 9.16 hr; MobileMark 25 up to 7.6 hr; JEITA 2.0 up to 15.3 hr; Local video playback up to 13.4 hr",
+    "section_title": "Battery and Power Adapter",
+    "citations": [
+      118,
+      119,
+      120,
+      121,
+      131
+    ]
+  },
+  {
+    "sku": "ThinkPad E14 Gen 5 (Intel)",
+    "text": "Alternate Configuration 3 (2.2K non-touch, i7-1355U, 40GB DDR4, NVIDIA MX550, 57Wh): MobileMark 2018 up to 8.18 hr; MobileMark 25 up to 6.7 hr; JEITA 2.0 up to 14.9 hr; Local video playback up to 13.1 hr",
+    "section_title": "Battery and Power Adapter",
+    "citations": [
+      123,
+      124,
+      125,
+      126,
+      132
+    ]
+  },
+  {
+    "sku": "ThinkPad E14 Gen 5 (Intel)",
+    "text": "Screen-to-Body Ratio: 90%. Touchscreen: On-cell multi-touch, supports 10-point touch, or Non-touch.",
+    "section_title": "Display",
+    "citations": [
+      155,
+      153
+    ]
+  },
+  {
+    "sku": "ThinkPad E14 Gen 5 (Intel)",
+    "text": "14\" WUXGA (1920x1200): Non-touch, IPS, 300nits, Anti-glare, 16:10, 800:1 Contrast, 45% NTSC, 60Hz, T\u00dcV Low Blue Light (Software)",
+    "section_title": "Display",
+    "citations": [
+      151
+    ]
+  },
+  {
+    "sku": "ThinkPad E14 Gen 5 (Intel)",
+    "text": "14\" WUXGA (1920x1200): Multi-touch, IPS, 300nits, Anti-glare, 16:10, 800:1 Contrast, 45% NTSC, 60Hz, T\u00dcV Low Blue Light (Software)",
+    "section_title": "Display",
+    "citations": [
+      151
+    ]
+  },
+  {
+    "sku": "ThinkPad E14 Gen 5 (Intel)",
+    "text": "14\" 2.2K (2240x1400): Non-touch, IPS, 300nits, Anti-glare, 16:10, 1500:1 Contrast, 100% SRGB, 60Hz, Eyesafe Certified 2.0",
+    "section_title": "Display",
+    "citations": [
+      151
+    ]
+  },
+  {
+    "sku": "ThinkPad E14 Gen 5 (Intel)",
+    "text": "Pen: No support .\nKeyboard: 6-row, spill-resistant, multimedia Fn keys with Unified Communications controls .\nKeyboard Backlight: LED backlight or Non-backlight options .\nUltraNav\u2122: TrackPoint pointing device and Mylar surface multi-touch 3-button Trackpad, $56 \\times 115$ mm ($2.24 \\times 4.53$ inches).",
+    "section_title": "Input Devices",
+    "citations": [
+      160,
+      162,
+      163,
+      164,
+      166
+    ]
+  },
+  {
+    "sku": "ThinkPad E14 Gen 5 (Intel)",
+    "text": "Dimensions (W x D x H): $313 \\times 219.3 \\times 17.99$ mm ($12.32 \\times 8.63 \\times 0.71$ inches) (dimensions may vary depending on configurations) .\nCase Color options: Arctic grey and Graphite black.",
+    "section_title": "Physical Specifications (Dimensions and Weight)",
+    "citations": [
+      169,
+      179,
+      173,
+      174
+    ]
+  },
+  {
+    "sku": "ThinkPad E14 Gen 5 (Intel)",
+    "text": "Case Material: Aluminium (top), PC-ABS (bottom) | Weight: Starting at 1.41 kg (3.11 lbs)",
+    "section_title": "Physical Specifications (Dimensions and Weight)",
+    "citations": [
+      171,
+      176
+    ]
+  },
+  {
+    "sku": "ThinkPad E14 Gen 5 (Intel)",
+    "text": "Case Material: Aluminium (top), aluminium (bottom) | Weight: Starting at 1.43 kg (3.15 lbs)",
+    "section_title": "Physical Specifications (Dimensions and Weight)",
+    "citations": [
+      171,
+      177
+    ]
+  },
+  {
+    "sku": "ThinkPad E14 Gen 5 (Intel)",
+    "text": "Ethernet: Gigabit Ethernet, Intel Ethernet Connection I219-V, 1x RJ-45, supports Wake-on-LAN .\nWWAN: No support .\nSIM Card: No physical SIM card inbox .\nNFC: No support.",
+    "section_title": "Connectivity (WLAN, WWAN, Ethernet)",
+    "citations": [
+      200,
+      196,
+      198,
+      201
+    ]
+  },
+  {
+    "sku": "ThinkPad E14 Gen 5 (Intel)",
+    "text": "Wi-Fi 6, 802.11ax 2x2 Wi-Fi + Bluetooth 5.1, M.2 card",
+    "section_title": "Connectivity (WLAN, WWAN, Ethernet)",
+    "citations": [
+      188
+    ]
+  },
+  {
+    "sku": "ThinkPad E14 Gen 5 (Intel)",
+    "text": "Realtek Wi-Fi 6 RTL8852BE, 802.11ax Dual Band 2x2 Wi-Fi + Bluetooth 5.1 (Bluetooth 5.3 hardware ready), M.2 card",
+    "section_title": "Connectivity (WLAN, WWAN, Ethernet)",
+    "citations": [
+      192,
+      207
+    ]
+  },
+  {
+    "sku": "ThinkPad E14 Gen 5 (Intel)",
+    "text": "Intel Wi-Fi 6 AX201, 802.11ax 2x2 Wi-Fi + Bluetooth 5.1 (Bluetooth 5.2 hardware ready), M.2 card",
+    "section_title": "Connectivity (WLAN, WWAN, Ethernet)",
+    "citations": [
+      193,
+      211
+    ]
+  },
+  {
+    "sku": "ThinkPad E14 Gen 5 (Intel)",
+    "text": "Wi-Fi 6E, 802.11ax 2x2 Wi-Fi + Bluetooth 5.1, M.2 card",
+    "section_title": "Connectivity (WLAN, WWAN, Ethernet)",
+    "citations": [
+      193,
+      213
+    ]
+  },
+  {
+    "sku": "ThinkPad E14 Gen 5 (Intel)",
+    "text": "Realtek Wi-Fi 6E RTL8852CE, 802.11ax 2x2 Wi-Fi + Bluetooth 5.1 (Bluetooth 5.3 hardware ready), M.2 card",
+    "section_title": "Connectivity (WLAN, WWAN, Ethernet)",
+    "citations": [
+      194,
+      220
+    ]
+  },
+  {
+    "sku": "ThinkPad E14 Gen 5 (Intel)",
+    "text": "Intel Wi-Fi 6E AX211, 802.11ax 2x2 Wi-Fi + Bluetooth 5.1 (Bluetooth 5.3 hardware ready), M.2 card",
+    "section_title": "Connectivity (WLAN, WWAN, Ethernet)",
+    "citations": [
+      194,
+      220
+    ]
+  },
+  {
+    "sku": "ThinkPad E14 Gen 5 (Intel)",
+    "text": "Various docking solutions supported via Thunderbolt\u2122 or USB-C.",
+    "section_title": "Docking",
+    "citations": [
+      244
+    ]
+  },
+  {
+    "sku": "ThinkPad E14 Gen 5 (Intel)",
+    "text": "Other Security: ThinkShield, Camera privacy shutter, (Optional) IR camera for Windows Hello (facial recognition).",
+    "section_title": "Security and Privacy",
+    "citations": [
+      265,
+      266,
+      267
+    ]
+  },
+  {
+    "sku": "ThinkPad E14 Gen 5 (Intel)",
+    "text": "Security Chip: Firmware TPM 2.0 integrated in SoC or Discrete TPM 2.0, TCG certified, FIPS 140-2 certified",
+    "section_title": "Security and Privacy",
+    "citations": [
+      250,
+      251
+    ]
+  },
+  {
+    "sku": "ThinkPad E14 Gen 5 (Intel)",
+    "text": "Physical Lock: Kensington Nano Security Slot\u2122, $2.5 \\times 6$ mm",
+    "section_title": "Security and Privacy",
+    "citations": [
+      253
+    ]
+  },
+  {
+    "sku": "ThinkPad E14 Gen 5 (Intel)",
+    "text": "Smart Card Reader: No smart card reader",
+    "section_title": "Security and Privacy",
+    "citations": [
+      255
+    ]
+  },
+  {
+    "sku": "ThinkPad E14 Gen 5 (Intel)",
+    "text": "Fingerprint Reader: Touch style fingerprint reader integrated in power button or No fingerprint reader",
+    "section_title": "Security and Privacy",
+    "citations": [
+      257,
+      258
+    ]
+  },
+  {
+    "sku": "ThinkPad E14 Gen 5 (Intel)",
+    "text": "BIOS Security: NVMe password, Power-on password, Supervisor password, Self-healing BIOS",
+    "section_title": "Security and Privacy",
+    "citations": [
+      260,
+      261,
+      262,
+      263
+    ]
+  },
+  {
+    "sku": "ThinkPad E14 Gen 5 (Intel)",
+    "text": "System management options include Intel vPro Enterprise or Non-vPro.",
+    "section_title": "System Management",
+    "citations": [
+      271
+    ]
+  },
+  {
+    "sku": "ThinkPad E14 Gen 5 (Intel)",
+    "text": "Base Warranty Options: 1-year mail-in service",
+    "section_title": "Warranty",
+    "citations": [
+      280
+    ]
+  },
+  {
+    "sku": "ThinkPad E14 Gen 5 (Intel)",
+    "text": "Base Warranty Options: 1-year courier or carry-in service",
+    "section_title": "Warranty",
+    "citations": [
+      281
+    ]
+  },
+  {
+    "sku": "ThinkPad E14 Gen 5 (Intel)",
+    "text": "Base Warranty Options: 1-year courier or carry-in with 2-year system board service (Korea only)",
+    "section_title": "Warranty",
+    "citations": [
+      282
+    ]
+  },
+  {
+    "sku": "ThinkPad E14 Gen 5 (Intel)",
+    "text": "Base Warranty Options: 1-year limited onsite service",
+    "section_title": "Warranty",
+    "citations": [
+      283
+    ]
+  },
+  {
+    "sku": "ThinkPad E14 Gen 5 (Intel)",
+    "text": "Base Warranty Options: No base warranty",
+    "section_title": "Warranty",
+    "citations": [
+      284
+    ]
+  },
+  {
+    "sku": "ThinkPad E14 Gen 5 (Intel)",
+    "text": "Lenovo 15.6\" laptop casual toploader, polyester, black",
+    "section_title": "Bundled Accessories",
+    "citations": [
+      291
+    ]
+  },
+  {
+    "sku": "ThinkPad E14 Gen 5 (Intel)",
+    "text": "None",
+    "section_title": "Bundled Accessories",
+    "citations": [
+      291
+    ]
+  },
+  {
+    "sku": "ThinkPad E14 Gen 5 (Intel)",
+    "text": "Maximum altitude (without pressurization): 3048 m (10,000 ft). Note: When charging the battery, its temperature must be no lower than $10^{\\circ}C$ $(50^{\\circ}F)$.",
+    "section_title": "Operating Environment",
+    "citations": [
+      304,
+      306
+    ]
+  },
+  {
+    "sku": "ThinkPad E14 Gen 5 (Intel)",
+    "text": "Operating Temperature: $5^{\\circ}C$ $(41^{\\circ}F)$ to $35^{\\circ}C$ $(95^{\\circ}F)$",
+    "section_title": "Operating Environment",
+    "citations": [
+      298
+    ]
+  },
+  {
+    "sku": "ThinkPad E14 Gen 5 (Intel)",
+    "text": "Storage and transportation in original shipping package: $-20^{\\circ}C$ $(-4^{\\circ}F)$ to $60^{\\circ}C$ $(140^{\\circ}F)$",
+    "section_title": "Operating Environment",
+    "citations": [
+      299
+    ]
+  },
+  {
+    "sku": "ThinkPad E14 Gen 5 (Intel)",
+    "text": "Storage without package: $5^{\\circ}C$ $(41^{\\circ}F)$ to $43^{\\circ}C$ $(109^{\\circ}F)$",
+    "section_title": "Operating Environment",
+    "citations": [
+      299
+    ]
+  },
+  {
+    "sku": "ThinkPad E14 Gen 5 (Intel)",
+    "text": "Operating Relative Humidity: 8% to 95% at wet-bulb temperature $23^{\\circ}C$ $(73^{\\circ}F)$",
+    "section_title": "Operating Environment",
+    "citations": [
+      301
+    ]
+  },
+  {
+    "sku": "ThinkPad E14 Gen 5 (Intel)",
+    "text": "Storage and transportation Relative Humidity: 5% to 95% at wet-bulb temperature $27^{\\circ}C$ $(81^{\\circ}F)$",
+    "section_title": "Operating Environment",
+    "citations": [
+      302
+    ]
+  },
+  {
+    "sku": "ThinkPad E14 Gen 5 (Intel)",
+    "text": "The system utilizes Post Consumer Content (PCC) recycled plastic in several components and uses low-temperature solder.",
+    "section_title": "Sustainability",
+    "citations": [
+      310,
+      311,
+      312,
+      313,
+      315
+    ]
+  },
+  {
+    "sku": "ThinkPad E14 Gen 5 (Intel)",
+    "text": "25% PCC recycled plastic used in the battery pack enclosure",
+    "section_title": "Sustainability",
+    "citations": [
+      310
+    ]
+  },
+  {
+    "sku": "ThinkPad E14 Gen 5 (Intel)",
+    "text": "30% PCC recycled plastic used in speaker enclosure",
+    "section_title": "Sustainability",
+    "citations": [
+      311
+    ]
+  },
+  {
+    "sku": "ThinkPad E14 Gen 5 (Intel)",
+    "text": "90% PCC recycled plastic used in standard 65W adapter",
+    "section_title": "Sustainability",
+    "citations": [
+      312
+    ]
+  },
+  {
+    "sku": "ThinkPad E14 Gen 5 (Intel)",
+    "text": "Other Certifications: MIL-STD-810H military test passed. (Optional) Eyesafe Certified 2.0. (Optional) T\u00dcV Rheinland Low Blue Light (Hardware Solution). (Optional) T\u00dcV Rheinland Low Blue Light (Software Solution).",
+    "section_title": "Certifications",
+    "citations": [
+      335,
+      340,
+      341,
+      341
+    ]
+  },
+  {
+    "sku": "ThinkPad E14 Gen 5 (Intel)",
+    "text": "Green Certifications: ENERGY STAR 8.0",
+    "section_title": "Certifications",
+    "citations": [
+      319
+    ]
+  },
+  {
+    "sku": "ThinkPad E14 Gen 5 (Intel)",
+    "text": "Green Certifications: EPEAT\u2122 Gold Registered",
+    "section_title": "Certifications",
+    "citations": [
+      320,
+      332
+    ]
+  },
+  {
+    "sku": "ThinkPad E14 Gen 5 (Intel)",
+    "text": "Green Certifications: ErP Lot 6/26",
+    "section_title": "Certifications",
+    "citations": [
+      321
+    ]
+  },
+  {
+    "sku": "ThinkPad E14 Gen 5 (Intel)",
+    "text": "Green Certifications: FSC certified package",
+    "section_title": "Certifications",
+    "citations": [
+      322
+    ]
+  },
+  {
+    "sku": "ThinkPad E14 Gen 5 (Intel)",
+    "text": "Green Certifications: RoHS compliant",
+    "section_title": "Certifications",
+    "citations": [
+      323
+    ]
+  },
+  {
+    "sku": "ThinkPad E14 Gen 5 (Intel)",
+    "text": "Green Certifications: TCO Certified 9.0",
+    "section_title": "Certifications",
+    "citations": [
+      324
+    ]
+  },
+  {
+    "sku": "Lenovo ThinkPad E14 Gen 5 (AMD)",
+    "text": "A detailed listing of the ports on the ThinkPad E14 Gen 5 (AMD) chassis. Standard Ports (Full List with Specifications): 1x USB 3.2 Gen 1, 1x USB 3.2 Gen 1 (Always On), 1x USB-C 3.2 Gen 1 (support data transfer only), 1x USB-C 3.2 Gen 2 (support data transfer, Power Delivery 3.0 and DisplayPort\u2122 1.4), 1x HDMI 2.1, up to 4K/60Hz, 1x Headphone/microphone combo jack (3.5mm), 1x Ethernet (RJ-45). The transfer speed of these ports will vary depending on factors like the host device's processing speed and file attributes, and may be slower than the theoretical speed. Theoretical maximum speeds are: USB 2.0: 480 Mbit/s; USB 3.2 Gen 1: 5 Gbit/s; USB 3.2 Gen 2: 10 Gbit/s; USB4 40Gbps / Thunderbolt\u2122 3/4: 40 Gbit/s.",
+    "section_title": "Ports and Slots",
+    "citations": []
+  },
+  {
+    "sku": "Lenovo ThinkPad E14 Gen 5 (AMD)",
+    "text": "USB 3.2 Gen 1",
+    "section_title": "Ports and Slots",
+    "citations": []
+  },
+  {
+    "sku": "Lenovo ThinkPad E14 Gen 5 (AMD)",
+    "text": "Ethernet (RJ-45)",
+    "section_title": "Ports and Slots",
+    "citations": []
+  },
+  {
+    "sku": "Lenovo ThinkPad E14 Gen 5 (AMD)",
+    "text": "Kensington Nano Security Slot",
+    "section_title": "Ports and Slots",
+    "citations": []
+  },
+  {
+    "sku": "Lenovo ThinkPad E14 Gen 5 (AMD)",
+    "text": "USB-C 3.2 Gen 1",
+    "section_title": "Ports and Slots",
+    "citations": []
+  },
+  {
+    "sku": "Lenovo ThinkPad E14 Gen 5 (AMD)",
+    "text": "USB-C 3.2 Gen 2",
+    "section_title": "Ports and Slots",
+    "citations": []
+  },
+  {
+    "sku": "Lenovo ThinkPad E14 Gen 5 (AMD)",
+    "text": "USB 3.2 Gen 1 (Always On)",
+    "section_title": "Ports and Slots",
+    "citations": []
+  },
+  {
+    "sku": "Lenovo ThinkPad E14 Gen 5 (AMD)",
+    "text": "HDMI",
+    "section_title": "Ports and Slots",
+    "citations": []
+  },
+  {
+    "sku": "Lenovo ThinkPad E14 Gen 5 (AMD)",
+    "text": "Headphone / microphone combo jack (3.5mm)",
+    "section_title": "Ports and Slots",
+    "citations": []
+  },
+  {
+    "sku": "Lenovo ThinkPad E14 Gen 5 (AMD)",
+    "text": "Processor Family: AMD Ryzen\u2122 3 / 5 / 7 Processor. The full processor specifications are detailed below.",
+    "section_title": "Processor",
+    "citations": []
+  },
+  {
+    "sku": "Lenovo ThinkPad E14 Gen 5 (AMD)",
+    "text": "AMD Ryzen\u2122 3 7330U: 4 Cores, 8 Threads, 2.3GHz Base / 4.3GHz Max, 2MB L2 / 8MB L3 Cache, AMD Radeon\u2122 Graphics",
+    "section_title": "Processor",
+    "citations": []
+  },
+  {
+    "sku": "Lenovo ThinkPad E14 Gen 5 (AMD)",
+    "text": "AMD Ryzen\u2122 5 5625U: 6 Cores, 12 Threads, 2.3GHz Base / 4.3GHz Max, 3MB L2 / 16MB L3 Cache, AMD Radeon\u2122 Graphics",
+    "section_title": "Processor",
+    "citations": []
+  },
+  {
+    "sku": "Lenovo ThinkPad E14 Gen 5 (AMD)",
+    "text": "AMD Ryzen\u2122 5 7430U: 6 Cores, 12 Threads, 2.3GHz Base / 4.3GHz Max, 3MB L2 / 16MB L3 Cache, AMD Radeon\u2122 Graphics",
+    "section_title": "Processor",
+    "citations": []
+  },
+  {
+    "sku": "Lenovo ThinkPad E14 Gen 5 (AMD)",
+    "text": "AMD Ryzen\u2122 5 7530U: 6 Cores, 12 Threads, 2.0GHz Base / 4.5GHz Max, 3MB L2 / 16MB L3 Cache, AMD Radeon\u2122 Graphics",
+    "section_title": "Processor",
+    "citations": []
+  },
+  {
+    "sku": "Lenovo ThinkPad E14 Gen 5 (AMD)",
+    "text": "AMD Ryzen\u2122 7 7730U: 8 Cores, 16 Threads, 2.0GHz Base / 4.5GHz Max, 4MB L2 / 16MB L3 Cache, AMD Radeon\u2122 Graphics",
+    "section_title": "Processor",
+    "citations": []
+  },
+  {
+    "sku": "Lenovo ThinkPad E14 Gen 5 (AMD)",
+    "text": "Available operating system options are: Windows\u00ae 11 Pro, Windows\u00ae 11 Home, Windows\u00ae 11 Home Single Language, Windows\u00ae 11 DG Windows\u00ae 10 Pro 64 (for special bid only), or No preload operating system.",
+    "section_title": "Operating System",
+    "citations": []
+  },
+  {
+    "sku": "Lenovo ThinkPad E14 Gen 5 (AMD)",
+    "text": "Windows\u00ae 11 Pro",
+    "section_title": "Operating System",
+    "citations": []
+  },
+  {
+    "sku": "Lenovo ThinkPad E14 Gen 5 (AMD)",
+    "text": "Windows\u00ae 11 Home",
+    "section_title": "Operating System",
+    "citations": []
+  },
+  {
+    "sku": "Lenovo ThinkPad E14 Gen 5 (AMD)",
+    "text": "Windows\u00ae 11 Home Single Language",
+    "section_title": "Operating System",
+    "citations": []
+  },
+  {
+    "sku": "Lenovo ThinkPad E14 Gen 5 (AMD)",
+    "text": "Windows\u00ae 11 DG Windows\u00ae 10 Pro 64 (for special bid only)",
+    "section_title": "Operating System",
+    "citations": []
+  },
+  {
+    "sku": "Lenovo ThinkPad E14 Gen 5 (AMD)",
+    "text": "No preload operating system",
+    "section_title": "Operating System",
+    "citations": []
+  },
+  {
+    "sku": "Lenovo ThinkPad E14 Gen 5 (AMD)",
+    "text": "Graphics: AMD Radeon\u2122 Graphics, Integrated, Shared Memory, Share CPU TDP, DirectX\u00ae 12.",
+    "section_title": "Graphics",
+    "citations": []
+  },
+  {
+    "sku": "Lenovo ThinkPad E14 Gen 5 (AMD)",
+    "text": "Supports up to 4 independent displays (native display and 3 external monitors via HDMI\u00ae and USB-C\u00ae).",
+    "section_title": "Monitor Support",
+    "citations": []
+  },
+  {
+    "sku": "Lenovo ThinkPad E14 Gen 5 (AMD)",
+    "text": "HDMI\u00ae supports up to $4096\\times2160@30$Hz",
+    "section_title": "Monitor Support",
+    "citations": []
+  },
+  {
+    "sku": "Lenovo ThinkPad E14 Gen 5 (AMD)",
+    "text": "USB-C\u00ae supports up to $5120\\times2160@60$Hz",
+    "section_title": "Monitor Support",
+    "citations": []
+  },
+  {
+    "sku": "Lenovo ThinkPad E14 Gen 5 (AMD)",
+    "text": "AMD SoC (System on Chip) platform.",
+    "section_title": "Chipset",
+    "citations": []
+  },
+  {
+    "sku": "Lenovo ThinkPad E14 Gen 5 (AMD)",
+    "text": "Max Memory: Up to 40GB (8GB soldered + 32GB SO-DIMM) DDR4-3200. Memory Slots: One memory soldered to systemboard, one DDR4 SO-DIMM slot, dual-channel capable. Memory Type: DDR4-3200.",
+    "section_title": "Memory",
+    "citations": []
+  },
+  {
+    "sku": "Lenovo ThinkPad E14 Gen 5 (AMD)",
+    "text": "Max Memory: Up to 40GB (8GB soldered + 32GB SO-DIMM) DDR4-3200",
+    "section_title": "Memory",
+    "citations": []
+  },
+  {
+    "sku": "Lenovo ThinkPad E14 Gen 5 (AMD)",
+    "text": "Memory Slots: One memory soldered to systemboard, one DDR4 SO-DIMM slot, dual-channel capable",
+    "section_title": "Memory",
+    "citations": []
+  },
+  {
+    "sku": "Lenovo ThinkPad E14 Gen 5 (AMD)",
+    "text": "Memory Type: DDR4-3200",
+    "section_title": "Memory",
+    "citations": []
+  },
+  {
+    "sku": "Lenovo ThinkPad E14 Gen 5 (AMD)",
+    "text": "Max Storage Support: Up to two drives, $2\\times$ M.2 SSD. Storage Slots: Two M.2 slots: One M.2 2242 PCIe 3.0 x4 slot and one M.2 2280 PCIe 3.0 x4 slot. The M.2 2280 slot supports an M.2 2242 SSD (up to 512GB) or an M.2 2280 SSD (up to 1TB).",
+    "section_title": "Storage",
+    "citations": []
+  },
+  {
+    "sku": "Lenovo ThinkPad E14 Gen 5 (AMD)",
+    "text": "M.2 2242 SSD up to 512GB, PCIe NVMe, PCIe 3.0 x4 interface",
+    "section_title": "Storage",
+    "citations": []
+  },
+  {
+    "sku": "Lenovo ThinkPad E14 Gen 5 (AMD)",
+    "text": "M.2 2280 SSD up to 1TB, PCIe NVMe, PCIe 3.0 x4 interface",
+    "section_title": "Storage",
+    "citations": []
+  },
+  {
+    "sku": "Lenovo ThinkPad E14 Gen 5 (AMD)",
+    "text": "Card Reader: No card reader.",
+    "section_title": "Removable Storage",
+    "citations": []
+  },
+  {
+    "sku": "Lenovo ThinkPad E14 Gen 5 (AMD)",
+    "text": "Audio Chip: High Definition (HD) Audio, Realtek ALC3287 codec. Speakers: Stereo speakers, $2\\text{W}\\times2$, Dolby Audio\u2122. Microphone: Dual-microphone array, Dolby Voice.",
+    "section_title": "Audio and Camera",
+    "citations": []
+  },
+  {
+    "sku": "Lenovo ThinkPad E14 Gen 5 (AMD)",
+    "text": "Camera: HD 720p, with privacy shutter, fixed focus",
+    "section_title": "Audio and Camera",
+    "citations": []
+  },
+  {
+    "sku": "Lenovo ThinkPad E14 Gen 5 (AMD)",
+    "text": "Camera: FHD 1080p, with privacy shutter, fixed focus",
+    "section_title": "Audio and Camera",
+    "citations": []
+  },
+  {
+    "sku": "Lenovo ThinkPad E14 Gen 5 (AMD)",
+    "text": "Battery Options: Integrated Li-Polymer 47Wh or 57Wh battery, both support Rapid Charge (charge up to 80% in 1hr). Rapid charge is only guaranteed when the computer is turned off, in standby, or in hibernation mode.",
+    "section_title": "Battery and Power Adapter",
+    "citations": []
+  },
+  {
+    "sku": "Lenovo ThinkPad E14 Gen 5 (AMD)",
+    "text": "Power Adapter: 65W USB-C (2-pin or 3-pin), supports PD 3.0, 100-240V, 50-60Hz.",
+    "section_title": "Battery and Power Adapter",
+    "citations": []
+  },
+  {
+    "sku": "Lenovo ThinkPad E14 Gen 5 (AMD)",
+    "text": "Battery Life (MobileMark 2018, 57Wh): up to 12.6 hr. (Note: Battery life varies significantly with settings, usage, and other factors.)",
+    "section_title": "Battery and Power Adapter",
+    "citations": []
+  },
+  {
+    "sku": "Lenovo ThinkPad E14 Gen 5 (AMD)",
+    "text": "Screen-to-Body Ratio: 90%. Touchscreen: On-cell multi-touch, supports 10-point touch, or Non-touch.",
+    "section_title": "Display",
+    "citations": []
+  },
+  {
+    "sku": "Lenovo ThinkPad E14 Gen 5 (AMD)",
+    "text": "14\" WUXGA ($1920\\times1200$): Non-touch, IPS, 300nits, Anti-glare, 16:10, 800:1 Contrast, 45% NTSC, 60Hz, T\u00dcV Low Blue Light (Software)",
+    "section_title": "Display",
+    "citations": []
+  },
+  {
+    "sku": "Lenovo ThinkPad E14 Gen 5 (AMD)",
+    "text": "14\" WUXGA ($1920\\times1200$): Multi-touch, IPS, 300nits, Anti-glare, 16:10, 800:1 Contrast, 45% NTSC, 60Hz, T\u00dcV Low Blue Light (Software)",
+    "section_title": "Display",
+    "citations": []
+  },
+  {
+    "sku": "Lenovo ThinkPad E14 Gen 5 (AMD)",
+    "text": "14\" 2.2K ($2240\\times1400$): Non-touch, IPS, 300nits, Anti-glare, 16:10, 1500:1 Contrast, 100% SRGB, 60Hz, Eyesafe Certified 2.0",
+    "section_title": "Display",
+    "citations": []
+  },
+  {
+    "sku": "Lenovo ThinkPad E14 Gen 5 (AMD)",
+    "text": "Keyboard: 6-row, spill-resistant, multimedia Fn keys with Unified Communications controls. UltraNav\u2122: TrackPoint pointing device and Mylar surface multi-touch 3-button Trackpad, $56 \\times 115$ mm ($2.24 \\times 4.53$ inches).",
+    "section_title": "Input Devices",
+    "citations": []
+  },
+  {
+    "sku": "Lenovo ThinkPad E14 Gen 5 (AMD)",
+    "text": "Keyboard Backlight: LED backlight or Non-backlight options.",
+    "section_title": "Input Devices",
+    "citations": []
+  },
+  {
+    "sku": "Lenovo ThinkPad E14 Gen 5 (AMD)",
+    "text": "WWAN: No support. SIM Card: No physical SIM card inbox. NFC: No support.",
+    "section_title": "Connectivity (WLAN, WWAN, Ethernet)",
+    "citations": []
+  },
+  {
+    "sku": "Lenovo ThinkPad E14 Gen 5 (AMD)",
+    "text": "Ethernet: Gigabit Ethernet, Realtek RTL8111H-CG, $1\\times$ RJ-45, supports Wake-on-LAN.",
+    "section_title": "Connectivity (WLAN, WWAN, Ethernet)",
+    "citations": []
+  },
+  {
+    "sku": "Lenovo ThinkPad E14 Gen 5 (AMD)",
+    "text": "WLAN + Bluetooth: Wi-Fi 6, 802.11ax $2\\times2$ Wi-Fi + Bluetooth 5.1, M.2 card",
+    "section_title": "Connectivity (WLAN, WWAN, Ethernet)",
+    "citations": []
+  },
+  {
+    "sku": "Lenovo ThinkPad E14 Gen 5 (AMD)",
+    "text": "WLAN + Bluetooth: Wi-Fi 6E, 802.11ax $2\\times2$ Wi-Fi + Bluetooth 5.1, M.2 card (Bluetooth 5.3 hardware ready)",
+    "section_title": "Connectivity (WLAN, WWAN, Ethernet)",
+    "citations": []
+  },
+  {
+    "sku": "Lenovo ThinkPad E14 Gen 5 (AMD)",
+    "text": "WLAN + Bluetooth: Wi-Fi 6E, 802.11ax $2\\times2$ Wi-Fi + Bluetooth 5.1, M.2 card",
+    "section_title": "Connectivity (WLAN, WWAN, Ethernet)",
+    "citations": []
+  },
+  {
+    "sku": "Lenovo ThinkPad E14 Gen 5 (AMD)",
+    "text": "Various docking solutions supported via USB-C\u00ae.",
+    "section_title": "Docking",
+    "citations": []
+  },
+  {
+    "sku": "Lenovo ThinkPad E14 Gen 5 (AMD)",
+    "text": "Other Security: ThinkShield, Camera privacy shutter, (Optional) IR camera for Windows Hello (facial recognition).",
+    "section_title": "Security and Privacy",
+    "citations": []
+  },
+  {
+    "sku": "Lenovo ThinkPad E14 Gen 5 (AMD)",
+    "text": "Security Chip: Firmware TPM 2.0 integrated in SoC or Discrete TPM 2.0, TCG certified, FIPS 140-2 certified",
+    "section_title": "Security and Privacy",
+    "citations": []
+  },
+  {
+    "sku": "Lenovo ThinkPad E14 Gen 5 (AMD)",
+    "text": "Physical Lock: Kensington Nano Security Slot\u2122, $2.5 \\times 6$ mm",
+    "section_title": "Security and Privacy",
+    "citations": []
+  },
+  {
+    "sku": "Lenovo ThinkPad E14 Gen 5 (AMD)",
+    "text": "Smart Card Reader: No smart card reader",
+    "section_title": "Security and Privacy",
+    "citations": []
+  },
+  {
+    "sku": "Lenovo ThinkPad E14 Gen 5 (AMD)",
+    "text": "Fingerprint Reader: Touch style fingerprint reader integrated in power button or No fingerprint reader",
+    "section_title": "Security and Privacy",
+    "citations": []
+  },
+  {
+    "sku": "Lenovo ThinkPad E14 Gen 5 (AMD)",
+    "text": "BIOS Security: NVMe password, Power-on password, Supervisor password, Self-healing BIOS",
+    "section_title": "Security and Privacy",
+    "citations": []
+  },
+  {
+    "sku": "Lenovo ThinkPad E14 Gen 5 (AMD)",
+    "text": "Dimensions (W x D x H): $313 \\times 219.3 \\times 17.99$ mm ($12.32 \\times 8.63 \\times 0.71$ inches) (dimensions may vary depending on configurations). Case Color options: Arctic grey and Graphite black.",
+    "section_title": "Physical Specifications (Dimensions and Weight)",
+    "citations": []
+  },
+  {
+    "sku": "Lenovo ThinkPad E14 Gen 5 (AMD)",
+    "text": "Case Material: Aluminium (top), PC-ABS (bottom) | Weight: Starting at 1.41 kg (3.11 lbs)",
+    "section_title": "Physical Specifications (Dimensions and Weight)",
+    "citations": []
+  },
+  {
+    "sku": "Lenovo ThinkPad E14 Gen 5 (AMD)",
+    "text": "Case Material: Aluminium (top), aluminium (bottom) | Weight: Starting at 1.43 kg (3.15 lbs)",
+    "section_title": "Physical Specifications (Dimensions and Weight)",
+    "citations": []
+  },
+  {
+    "sku": "Lenovo ThinkPad E14 Gen 5 (AMD)",
+    "text": "System management options include Non-vPro.",
+    "section_title": "System Management",
+    "citations": []
+  },
+  {
+    "sku": "Lenovo ThinkPad E14 Gen 5 (AMD)",
+    "text": "Maximum altitude (without pressurization): 3048 m (10,000 ft). Operating Temperature: $5^{\\circ}C$ $(41^{\\circ}F)$ to $35^{\\circ}C$ $(95^{\\circ}F)$. Storage and transportation in original shipping package: $-20^{\\circ}C$ $(-4^{\\circ}F)$ to $60^{\\circ}C$ $(140^{\\circ}F)$. Storage without package: $5^{\\circ}C$ $(41^{\\circ}F)$ to $43^{\\circ}C$ $(109^{\\circ}F)$. Operating Relative Humidity: 8% to 95% at wet-bulb temperature $23^{\\circ}C$ $(73^{\\circ}F)$. Storage and transportation Relative Humidity: 5% to 95% at wet-bulb temperature $27^{\\circ}C$ $(81^{\\circ}F)$.",
+    "section_title": "Operating Environment",
+    "citations": []
+  },
+  {
+    "sku": "Lenovo ThinkPad E14 Gen 5 (AMD)",
+    "text": "The system utilizes Post Consumer Content (PCC) recycled plastic in several components and uses low-temperature solder.",
+    "section_title": "Sustainability",
+    "citations": []
+  },
+  {
+    "sku": "Lenovo ThinkPad E14 Gen 5 (AMD)",
+    "text": "25% PCC recycled plastic used in the battery pack enclosure",
+    "section_title": "Sustainability",
+    "citations": []
+  },
+  {
+    "sku": "Lenovo ThinkPad E14 Gen 5 (AMD)",
+    "text": "30% PCC recycled plastic used in speaker enclosure",
+    "section_title": "Sustainability",
+    "citations": []
+  },
+  {
+    "sku": "Lenovo ThinkPad E14 Gen 5 (AMD)",
+    "text": "90% PCC recycled plastic used in standard 65W adapter",
+    "section_title": "Sustainability",
+    "citations": []
+  },
+  {
+    "sku": "Lenovo ThinkPad E14 Gen 5 (AMD)",
+    "text": "1-year mail-in service",
+    "section_title": "Warranty",
+    "citations": []
+  },
+  {
+    "sku": "Lenovo ThinkPad E14 Gen 5 (AMD)",
+    "text": "1-year courier or carry-in service",
+    "section_title": "Warranty",
+    "citations": []
+  },
+  {
+    "sku": "Lenovo ThinkPad E14 Gen 5 (AMD)",
+    "text": "1-year courier or carry-in with 2-year system board service (Korea only)",
+    "section_title": "Warranty",
+    "citations": []
+  },
+  {
+    "sku": "Lenovo ThinkPad E14 Gen 5 (AMD)",
+    "text": "1-year limited onsite service",
+    "section_title": "Warranty",
+    "citations": []
+  },
+  {
+    "sku": "Lenovo ThinkPad E14 Gen 5 (AMD)",
+    "text": "No base warranty",
+    "section_title": "Warranty",
+    "citations": []
+  },
+  {
+    "sku": "Lenovo ThinkPad E14 Gen 5 (AMD)",
+    "text": "Lenovo 15.6\" laptop casual toploader, polyester, black",
+    "section_title": "Bundled Accessories",
+    "citations": []
+  },
+  {
+    "sku": "Lenovo ThinkPad E14 Gen 5 (AMD)",
+    "text": "None",
+    "section_title": "Bundled Accessories",
+    "citations": []
+  },
+  {
+    "sku": "Lenovo ThinkPad E14 Gen 5 (AMD)",
+    "text": "Other Certifications: MIL-STD-810H military test passed. (Optional) Eyesafe Certified 2.0. (Optional) T\u00dcV Rheinland Low Blue Light (Hardware Solution). (Optional) T\u00dcV Rheinland Low Blue Light (Software Solution).",
+    "section_title": "Certifications",
+    "citations": []
+  },
+  {
+    "sku": "Lenovo ThinkPad E14 Gen 5 (AMD)",
+    "text": "Green Certifications: ENERGY STAR 8.0",
+    "section_title": "Certifications",
+    "citations": []
+  },
+  {
+    "sku": "Lenovo ThinkPad E14 Gen 5 (AMD)",
+    "text": "Green Certifications: EPEAT\u2122 Gold Registered",
+    "section_title": "Certifications",
+    "citations": []
+  },
+  {
+    "sku": "Lenovo ThinkPad E14 Gen 5 (AMD)",
+    "text": "Green Certifications: ErP Lot 3/7",
+    "section_title": "Certifications",
+    "citations": []
+  },
+  {
+    "sku": "Lenovo ThinkPad E14 Gen 5 (AMD)",
+    "text": "Green Certifications: FSC certified package",
+    "section_title": "Certifications",
+    "citations": []
+  },
+  {
+    "sku": "Lenovo ThinkPad E14 Gen 5 (AMD)",
+    "text": "Green Certifications: RoHS compliant",
+    "section_title": "Certifications",
+    "citations": []
+  },
+  {
+    "sku": "Lenovo ThinkPad E14 Gen 5 (AMD)",
+    "text": "Green Certifications: TCO Certified 9.0",
+    "section_title": "Certifications",
+    "citations": []
+  },
+  {
+    "sku": "HP ProBook 450 G10 \u2014 Datasheet",
+    "text": "Available Operating Systems: Windows 11 Pro Education\u00b9; Windows 11 Home - HP recommends Windows 11 Pro for business\u00b9; Windows 11 Home Single Language - HP recommends Windows 11 Pro for business\u00b9; Windows 11 Pro (Windows 11 Enterprise or Windows 10 Enterprise available with a Volume Licensing Agreement); Windows 11 Pro (preinstalled with Windows 10 Pro Downgrade) 1,2; FreeDOS.",
+    "section_title": "Operating Systems",
+    "citations": []
+  },
+  {
+    "sku": "HP ProBook 450 G10 \u2014 Datasheet",
+    "text": "Windows 11 Pro Education",
+    "section_title": "Operating Systems",
+    "citations": []
+  },
+  {
+    "sku": "HP ProBook 450 G10 \u2014 Datasheet",
+    "text": "Windows 11 Home",
+    "section_title": "Operating Systems",
+    "citations": []
+  },
+  {
+    "sku": "HP ProBook 450 G10 \u2014 Datasheet",
+    "text": "Windows 11 Home Single Language",
+    "section_title": "Operating Systems",
+    "citations": []
+  },
+  {
+    "sku": "HP ProBook 450 G10 \u2014 Datasheet",
+    "text": "Windows 11 Pro",
+    "section_title": "Operating Systems",
+    "citations": []
+  },
+  {
+    "sku": "HP ProBook 450 G10 \u2014 Datasheet",
+    "text": "Windows 11 Pro (preinstalled with Windows 10 Pro Downgrade)",
+    "section_title": "Operating Systems",
+    "citations": []
+  },
+  {
+    "sku": "HP ProBook 450 G10 \u2014 Datasheet",
+    "text": "FreeDOS",
+    "section_title": "Operating Systems",
+    "citations": []
+  },
+  {
+    "sku": "HP ProBook 450 G10 \u2014 Datasheet",
+    "text": "Processor family: Intel Pentium\u00ae processor, 13th Generation Intel\u00ae Core\u2122 i7 processor, 13th Generation Intel Core i5 processor, 13th Generation Intel\u00ae Core\u2122 i3 processor. The system is available with a variety of 13th Generation Intel Core\u2122 and Pentium U/P series processors.",
+    "section_title": "Processor",
+    "citations": []
+  },
+  {
+    "sku": "HP ProBook 450 G10 \u2014 Datasheet",
+    "text": "Intel Core\u2122 i7-1355U (1.2 GHz E-core base frequency, 1.7 GHz P-core base frequency, up to 3.7 GHz E-core Max Turbo frequency, up to 5.0 GHz P-core Max Turbo frequency, 12 MB L3 cache, 2 P-cores and 8 E-cores, 12 threads)",
+    "section_title": "Processor",
+    "citations": []
+  },
+  {
+    "sku": "HP ProBook 450 G10 \u2014 Datasheet",
+    "text": "Intel Core\u2122 i5-1335U (0.9 GHz E-core base frequency, 1.3 GHz P-core base frequency, up to 3.4 GHz E-core Max Turbo frequency, up to 4.6 GHz P-core Max Turbo frequency, 12 MB L3 cache, 2 P-cores and 8 E-cores, 12 threads)",
+    "section_title": "Processor",
+    "citations": []
+  },
+  {
+    "sku": "HP ProBook 450 G10 \u2014 Datasheet",
+    "text": "Intel Core\u2122 i3-1340P with Intel UHD Graphics (0.9 GHz E-core base frequency, 1.2 GHz P-core base frequency, up to 3.3 GHz E-core Max Turbo frequency, up to 4.5 GHz P-core Max Turbo frequency, 10 MB L3 cache, 2 P-cores and 4 E-cores, 6 threads)",
+    "section_title": "Processor",
+    "citations": []
+  },
+  {
+    "sku": "HP ProBook 450 G10 \u2014 Datasheet",
+    "text": "Intel Pentium U300 with Intel UHD Graphics (0.9 GHz E-core base frequency, 1.2 GHz P-core base frequency, up to 3.3 GHz E-core Max Turbo frequency, up to 4.4 GHz P-core burst frequency, 8 MB L3 cache, 1 P-core and 4 E-cores, 6 threads)",
+    "section_title": "Processor",
+    "citations": []
+  },
+  {
+    "sku": "HP ProBook 450 G10 \u2014 Datasheet",
+    "text": "Intel\u00ae Core\u2122 i7-1360P (1.6 GHz E-core base frequency, 2.2 GHz P-core base frequency, up to 3.7 GHz E-core Max Turbo frequency, up to 5.0 GHz P-core Max Turbo frequency, 18 MB L3 cache, 4 P-cores and 8 E-cores, 16 threads)",
+    "section_title": "Processor",
+    "citations": []
+  },
+  {
+    "sku": "HP ProBook 450 G10 \u2014 Datasheet",
+    "text": "Intel\u00ae Core\u2122 i5-1340P (1.4 GHz E-core base frequency, 1.9 GHz P-core base frequency, up to 3.4 GHz E-core Max Turbo frequency, up to 4.6 GHz P-core Max Turbo frequency, 12 MB L3 cache, 4 P-cores and 8 E-cores, 16 threads)",
+    "section_title": "Processor",
+    "citations": []
+  },
+  {
+    "sku": "HP ProBook 450 G10 \u2014 Datasheet",
+    "text": "Intel\u00ae Core\u2122 i5-1334U (0.9 GHz E-core base frequency, 1.3 GHz P-core base frequency, up to 3.4 GHz E-core Max Turbo frequency, up to 4.6 GHz P-core Max Turbo frequency, 12 MB L3 cache, 2 P-cores and 8 E-core, 12 threads)",
+    "section_title": "Processor",
+    "citations": []
+  },
+  {
+    "sku": "HP ProBook 450 G10 \u2014 Datasheet",
+    "text": "Maximum memory: 32 GB DDR4-3200 MHz RAM; (Transfer rates up to 3200 MT/s.); 7 Both slots are accessible/upgradeable by IT or self-maintainers only. Supports dual channel memory. Memory slots: 2 SODIMM.",
+    "section_title": "Memory",
+    "citations": []
+  },
+  {
+    "sku": "HP ProBook 450 G10 \u2014 Datasheet",
+    "text": "Internal storage: up to 1 TB PCIe\u00ae NVMe\u2122 M.2 SSD TLC8; 128 GB up to 512 GB PCIe\u00ae NVMe\u2122 Value SSD8.",
+    "section_title": "Storage",
+    "citations": []
+  },
+  {
+    "sku": "HP ProBook 450 G10 \u2014 Datasheet",
+    "text": "up to 1 TB PCIe\u00ae NVMe\u2122 M.2 SSD TLC",
+    "section_title": "Storage",
+    "citations": []
+  },
+  {
+    "sku": "HP ProBook 450 G10 \u2014 Datasheet",
+    "text": "128 GB up to 512 GB PCIe\u00ae NVMe\u2122 Value SSD",
+    "section_title": "Storage",
+    "citations": []
+  },
+  {
+    "sku": "HP ProBook 450 G10 \u2014 Datasheet",
+    "text": "Display size (diagonal, metric) 39.6 cm (15.6\").",
+    "section_title": "Display",
+    "citations": []
+  },
+  {
+    "sku": "HP ProBook 450 G10 \u2014 Datasheet",
+    "text": "39.6 cm (15.6\") diagonal, FHD (1920 x 1080), narrow bezel, anti-glare, 250 nits, 45% NTSC",
+    "section_title": "Display",
+    "citations": []
+  },
+  {
+    "sku": "HP ProBook 450 G10 \u2014 Datasheet",
+    "text": "39.6 cm (15.6\") diagonal, FHD (1920 x 1080), touch, narrow bezel, anti-glare, 250 nits, 45% NTSC",
+    "section_title": "Display",
+    "citations": []
+  },
+  {
+    "sku": "HP ProBook 450 G10 \u2014 Datasheet",
+    "text": "39.6 cm (15.6\") diagonal, FHD (1920 x 1080), narrow bezel, anti-glare, 400 nits, low power, 100% sRGB",
+    "section_title": "Display",
+    "citations": []
+  },
+  {
+    "sku": "HP ProBook 450 G10 \u2014 Datasheet",
+    "text": "39.6 cm (15.6\") diagonal, QHD (2560 x 1440), anti-glare, narrow bezel, 300 nits, 72% NTSC",
+    "section_title": "Display",
+    "citations": []
+  },
+  {
+    "sku": "HP ProBook 450 G10 \u2014 Datasheet",
+    "text": "Available Graphics: Integrated: Intel\u00ae UHD Graphics; Intel\u2122 Iris X\u1d49 Graphics 14,42; Discrete: NVIDIA GeForce RTX\u2122 2050 Laptop GPU (4 GB GDDR6 dedicated)43. (Support CUDA, Optimus, PhysX, GPU Boost 2.0.)",
+    "section_title": "Graphics",
+    "citations": []
+  },
+  {
+    "sku": "HP ProBook 450 G10 \u2014 Datasheet",
+    "text": "Integrated: Intel\u00ae UHD Graphics",
+    "section_title": "Graphics",
+    "citations": []
+  },
+  {
+    "sku": "HP ProBook 450 G10 \u2014 Datasheet",
+    "text": "Integrated: Intel\u2122 Iris X\u1d49 Graphics",
+    "section_title": "Graphics",
+    "citations": []
+  },
+  {
+    "sku": "HP ProBook 450 G10 \u2014 Datasheet",
+    "text": "Discrete: NVIDIA GeForce RTX\u2122 2050 Laptop GPU (4 GB GDDR6 dedicated)",
+    "section_title": "Graphics",
+    "citations": []
+  },
+  {
+    "sku": "HP ProBook 450 G10 \u2014 Datasheet",
+    "text": "Dual stereo speakers, dual array microphones.",
+    "section_title": "Audio",
+    "citations": []
+  },
+  {
+    "sku": "HP ProBook 450 G10 \u2014 Datasheet",
+    "text": "Standard Ports: 2 USB Type-A 5Gbps signaling rate (1 charging, 1 power); 1 AC power; 1 HDMI 2.1; 1 stereo headphone/microphone combo jack; 1 RJ-45; 2 USB Type-C 10Gbps signaling rate (USB Power Delivery, DisplayPort\u2122 2.1). (HDMI cable sold separately.); Optional Ports: 1 External Nano SIM slot for WWAN41.",
+    "section_title": "Ports and Connectors",
+    "citations": []
+  },
+  {
+    "sku": "HP ProBook 450 G10 \u2014 Datasheet",
+    "text": "2 USB Type-A 5Gbps signaling rate (1 charging, 1 power)",
+    "section_title": "Ports and Connectors",
+    "citations": []
+  },
+  {
+    "sku": "HP ProBook 450 G10 \u2014 Datasheet",
+    "text": "1 AC power",
+    "section_title": "Ports and Connectors",
+    "citations": []
+  },
+  {
+    "sku": "HP ProBook 450 G10 \u2014 Datasheet",
+    "text": "1 HDMI 2.1",
+    "section_title": "Ports and Connectors",
+    "citations": []
+  },
+  {
+    "sku": "HP ProBook 450 G10 \u2014 Datasheet",
+    "text": "1 stereo headphone/microphone combo jack",
+    "section_title": "Ports and Connectors",
+    "citations": []
+  },
+  {
+    "sku": "HP ProBook 450 G10 \u2014 Datasheet",
+    "text": "1 RJ-45 (Ethernet)",
+    "section_title": "Ports and Connectors",
+    "citations": []
+  },
+  {
+    "sku": "HP ProBook 450 G10 \u2014 Datasheet",
+    "text": "2 USB Type-C 10Gbps signaling rate (USB Power Delivery, DisplayPort\u2122 2.1)",
+    "section_title": "Ports and Connectors",
+    "citations": []
+  },
+  {
+    "sku": "HP ProBook 450 G10 \u2014 Datasheet",
+    "text": "Optional: 1 External Nano SIM slot for WWAN",
+    "section_title": "Ports and Connectors",
+    "citations": []
+  },
+  {
+    "sku": "HP ProBook 450 G10 \u2014 Datasheet",
+    "text": "HP Premium Keyboard-spill-resistant, full-size, optional backlit keyboard with numeric keypad. Clickpad with multi-touch gesture support.",
+    "section_title": "Input Devices",
+    "citations": []
+  },
+  {
+    "sku": "HP ProBook 450 G10 \u2014 Datasheet",
+    "text": "Compatible with Miracast-certified devices. Ethernet: Realtek RTL8111HSH-CG 10/100/1000 GbE NIC40. WWAN: Intel XMM\u2122 7560 LTE Advanced Pro Cat 16.",
+    "section_title": "Connectivity",
+    "citations": []
+  },
+  {
+    "sku": "HP ProBook 450 G10 \u2014 Datasheet",
+    "text": "WLAN/Bluetooth: Intel Wi-Fi 6E AX211 (2x2) and Bluetooth 5.3 wireless card, non-vPro\u2122",
+    "section_title": "Connectivity",
+    "citations": []
+  },
+  {
+    "sku": "HP ProBook 450 G10 \u2014 Datasheet",
+    "text": "WLAN/Bluetooth: Realtek WiFI -6E RTL8852CE 802.11a/b/g/n/ax (2x2) and Bluetooth 5.3 wireless card",
+    "section_title": "Connectivity",
+    "citations": []
+  },
+  {
+    "sku": "HP ProBook 450 G10 \u2014 Datasheet",
+    "text": "Available camera options.",
+    "section_title": "Camera",
+    "citations": []
+  },
+  {
+    "sku": "HP ProBook 450 G10 \u2014 Datasheet",
+    "text": "720p HD camera with temporal noise reduction (select models)",
+    "section_title": "Camera",
+    "citations": []
+  },
+  {
+    "sku": "HP ProBook 450 G10 \u2014 Datasheet",
+    "text": "IR Camera (select models)",
+    "section_title": "Camera",
+    "citations": []
+  },
+  {
+    "sku": "HP ProBook 450 G10 \u2014 Datasheet",
+    "text": "HP Connection Optimizer; HP Hotkey Support; HP Support Assistant; HP Power Manager, myHP; HP Privacy Settings; HP Notifications; HP QuickDrop: HP PC Hardware Diagnostics Windows; HP Services Scan; HP Smart Support (download) Microsoft 365 sold separately and requires Internet access for activation, 17,18,19,38,44,45.",
+    "section_title": "Software",
+    "citations": []
+  },
+  {
+    "sku": "HP ProBook 450 G10 \u2014 Datasheet",
+    "text": "Security features included in the system: Absolute persistence module; HP DriveLock and Automatic DriveLock; HP Secure Erase; HP Sure Click: HP Sure Sense: BIOS Update via Network; HP Sure Admin; HP BIOSphere Gen6; HP Client Security Manager Gen7; TPM 2.0 embedded security chip (Common Criteria EAL4+ and FIPS 140-2 Level 2 Certified); HP Sure Start Gen7; HP Wake on WLAN; HP Tamper Lock; HP Sure Run Gen5; Secured-Core PC Enable.",
+    "section_title": "Security Management",
+    "citations": []
+  },
+  {
+    "sku": "HP ProBook 450 G10 \u2014 Datasheet",
+    "text": "HP Wolf Pro Security Edition 56.",
+    "section_title": "Security Software Licenses",
+    "citations": []
+  },
+  {
+    "sku": "HP ProBook 450 G10 \u2014 Datasheet",
+    "text": "Fingerprint sensor (select models).",
+    "section_title": "Fingerprint Reader",
+    "citations": []
+  },
+  {
+    "sku": "HP ProBook 450 G10 \u2014 Datasheet",
+    "text": "HP Client Management Script Library (download); HP Driver Packs (download); HP Client Catalog (download); HP Manageability Integration Kit Gen4 (download); HP Image Assistant Gen5 (download); HP Cloud Recovery 20,21.",
+    "section_title": "Management Features",
+    "citations": []
+  },
+  {
+    "sku": "HP ProBook 450 G10 \u2014 Datasheet",
+    "text": "Available power adapters are: HP Smart 65 W EM External AC power adapter; HP Smart 45 W External AC power adapter; HP Smart 65 W USB Type-C adapter; HP Smart 45 W USB Type-C adapter 37.",
+    "section_title": "Power Adapter",
+    "citations": []
+  },
+  {
+    "sku": "HP ProBook 450 G10 \u2014 Datasheet",
+    "text": "HP Long Life 3-cell, 42 Wh Li-ion polymer, HP Long Life 3-cell, 51 Wh Li-ion polymer 36. Battery is internal and not replaceable by customer. Serviceable by warranty.",
+    "section_title": "Battery",
+    "citations": []
+  },
+  {
+    "sku": "HP ProBook 450 G10 \u2014 Datasheet",
+    "text": "HP Long Life 3-cell, 42 Wh Li-ion polymer",
+    "section_title": "Battery",
+    "citations": []
+  },
+  {
+    "sku": "HP ProBook 450 G10 \u2014 Datasheet",
+    "text": "HP Long Life 3-cell, 51 Wh Li-ion polymer",
+    "section_title": "Battery",
+    "citations": []
+  },
+  {
+    "sku": "HP ProBook 450 G10 \u2014 Datasheet",
+    "text": "Dimensions (W x D x H): $35.94 \\times 23.39 \\times 1.99$ cm; $6.9 \\times 48.3 \\times 30.5$ cm (Package).",
+    "section_title": "Dimensions",
+    "citations": []
+  },
+  {
+    "sku": "HP ProBook 450 G10 \u2014 Datasheet",
+    "text": "Starting at 1.79 kg. (Weight will vary by configuration. Does not include power adapter.)",
+    "section_title": "Weight",
+    "citations": []
+  },
+  {
+    "sku": "HP ProBook 450 G10 \u2014 Datasheet",
+    "text": "Energy star certified: ENERGY STAR\u00ae certified. Sustainable impact specifications: Low Halogen; Bulk packaging available; Molded paper pulp cushion inside box is 100% sustainably sourced and recyclable; Outside box and corrugated cushions are 100% sustainably sourced and recyclable; 10% post-consumer recycled plastic 44.",
+    "section_title": "Certifications and Ecolabels",
+    "citations": []
+  },
+  {
+    "sku": "HP ProBook 450 G10 \u2014 Datasheet",
+    "text": "Ecolabels: CECP",
+    "section_title": "Certifications and Ecolabels",
+    "citations": []
+  },
+  {
+    "sku": "HP ProBook 450 G10 \u2014 Datasheet",
+    "text": "Ecolabels: IT ECO Declaration",
+    "section_title": "Certifications and Ecolabels",
+    "citations": []
+  },
+  {
+    "sku": "HP ProBook 450 G10 \u2014 Datasheet",
+    "text": "Ecolabels: EPEAT\u00ae Gold registered in the U.S.",
+    "section_title": "Certifications and Ecolabels",
+    "citations": []
+  },
+  {
+    "sku": "HP ProBook 450 G10 \u2014 Datasheet",
+    "text": "Ecolabels: SEPA",
+    "section_title": "Certifications and Ecolabels",
+    "citations": []
+  },
+  {
+    "sku": "HP ProBook 450 G10 \u2014 Datasheet",
+    "text": "Ecolabels: Taiwan Green Mark",
+    "section_title": "Certifications and Ecolabels",
+    "citations": []
+  },
+  {
+    "sku": "HP ProBook 450 G10 \u2014 Datasheet",
+    "text": "Ecolabels: Japan PC Green Label",
+    "section_title": "Certifications and Ecolabels",
+    "citations": []
+  },
+  {
+    "sku": "HP ProBook 450 G10 \u2014 Datasheet",
+    "text": "Ecolabels: KOECO",
+    "section_title": "Certifications and Ecolabels",
+    "citations": []
+  },
+  {
+    "sku": "HP ProBook 450 G10 \u2014 Datasheet",
+    "text": "Ecolabels: TCO Certified 39",
+    "section_title": "Certifications and Ecolabels",
+    "citations": []
+  },
+  {
+    "sku": "HP ProBook 450 G10 \u2014 Datasheet",
+    "text": "1-year and 3-year limited warranties and 90 day software limited warranty options depending on country. Batteries have a default one year limited warranty. Refer to http://www.hp.com/support/batterywarranty/ for additional battery information. On-site service and extended coverage is also available. HP Care Pack Services are optional extended service contracts that go beyond the standard limited warranties. To choose the right level of service for your HP product, use the HP Care Pack Services Lookup Tool at: http://www.hp.com/go/cpc.",
+    "section_title": "Warranty",
+    "citations": []
+  },
+  {
+    "sku": "HP ProBook 440 14 inch G11 Notebook PC",
+    "text": "Available Operating Systems are: Windows 11 Pro, Windows 11 Pro Education, Windows 11 Home - HP recommends Windows 11 Pro for business, Windows 11 Home Single Language - HP recommends Windows 11 Pro for business, Windows 11 Pro (Windows 11 Enterprise or Windows 10 Enterprise available with a Volume Licensing Agreement), and FreeDOS.",
+    "section_title": "Operating Systems",
+    "citations": [
+      241
+    ]
+  },
+  {
+    "sku": "HP ProBook 440 14 inch G11 Notebook PC",
+    "text": "Windows 11 Pro",
+    "section_title": "Operating Systems",
+    "citations": []
+  },
+  {
+    "sku": "HP ProBook 440 14 inch G11 Notebook PC",
+    "text": "Windows 11 Pro Education",
+    "section_title": "Operating Systems",
+    "citations": []
+  },
+  {
+    "sku": "HP ProBook 440 14 inch G11 Notebook PC",
+    "text": "Windows 11 Home",
+    "section_title": "Operating Systems",
+    "citations": []
+  },
+  {
+    "sku": "HP ProBook 440 14 inch G11 Notebook PC",
+    "text": "Windows 11 Home Single Language",
+    "section_title": "Operating Systems",
+    "citations": []
+  },
+  {
+    "sku": "HP ProBook 440 14 inch G11 Notebook PC",
+    "text": "Windows 11 Pro (Windows 11 Enterprise or Windows 10 Enterprise available with a Volume Licensing Agreement)",
+    "section_title": "Operating Systems",
+    "citations": []
+  },
+  {
+    "sku": "HP ProBook 440 14 inch G11 Notebook PC",
+    "text": "FreeDOS",
+    "section_title": "Operating Systems",
+    "citations": []
+  },
+  {
+    "sku": "HP ProBook 440 14 inch G11 Notebook PC",
+    "text": "Processor family: Intel Core\u2122 Ultra 5 processor or Intel Core\u2122 Ultra 7 processor.",
+    "section_title": "Processor",
+    "citations": [
+      241
+    ]
+  },
+  {
+    "sku": "HP ProBook 440 14 inch G11 Notebook PC",
+    "text": "Intel\u00ae Core\u2122 Ultra 7 155H (up to 3.8 GHz E-core Max Turbo frequency, up to 4.8 GHz P-core Max Turbo frequency, 24 MB L3 cache, 6 P-cores and 8 E-cores, 22 threads)",
+    "section_title": "Processor",
+    "citations": [
+      241
+    ]
+  },
+  {
+    "sku": "HP ProBook 440 14 inch G11 Notebook PC",
+    "text": "Intel Core\u2122 Ultra 5 125H (up to 3.6 GHz E-core Max Turbo frequency, up to 4.5 GHz P-core Max Turbo frequency, 18 MB L3 cache, 4 P-cores and 8 E-cores, 18 threads)",
+    "section_title": "Processor",
+    "citations": [
+      241
+    ]
+  },
+  {
+    "sku": "HP ProBook 440 14 inch G11 Notebook PC",
+    "text": "Intel\u00ae Core\u2122 Ultra 7 155U (up to 3.8 GHz E-core Max Turbo frequency, up to 4.8 GHz P-core Max Turbo frequency, 12 MB L3 cache, 2 P-cores and 8 E-cores, 14 threads)",
+    "section_title": "Processor",
+    "citations": [
+      241
+    ]
+  },
+  {
+    "sku": "HP ProBook 440 14 inch G11 Notebook PC",
+    "text": "Intel Core\u2122 Ultra 5 125U (up to 3.6 GHz E-core Max Turbo frequency, up to 4.3 GHz P-core Max Turbo frequency, 12 MB L3 cache, 2 P-cores and 8 E-cores, 14 threads)",
+    "section_title": "Processor",
+    "citations": [
+      241
+    ]
+  },
+  {
+    "sku": "HP ProBook 440 14 inch G11 Notebook PC",
+    "text": "Maximum memory is 32 GB DDR5-5600 MT/s RAM. Transfer rates are up to 5600 MT/s, and the system supports dual channel memory. Memory slots: 2 SODIMM.",
+    "section_title": "Memory",
+    "citations": [
+      241,
+      241,
+      241
+    ]
+  },
+  {
+    "sku": "HP ProBook 440 14 inch G11 Notebook PC",
+    "text": "Maximum: 32 GB DDR5-5600 MT/s RAM",
+    "section_title": "Memory",
+    "citations": []
+  },
+  {
+    "sku": "HP ProBook 440 14 inch G11 Notebook PC",
+    "text": "Dual channel support",
+    "section_title": "Memory",
+    "citations": []
+  },
+  {
+    "sku": "HP ProBook 440 14 inch G11 Notebook PC",
+    "text": "2 SODIMM slots",
+    "section_title": "Memory",
+    "citations": []
+  },
+  {
+    "sku": "HP ProBook 440 14 inch G11 Notebook PC",
+    "text": "Internal storage options include PCIe Gen4x4 NVMe\u2122 M.2 SSD or PCIe NVMe\u2122 Value SSD.",
+    "section_title": "Storage",
+    "citations": [
+      241
+    ]
+  },
+  {
+    "sku": "HP ProBook 440 14 inch G11 Notebook PC",
+    "text": "512 GB up to 1 TB PCIe Gen4x4 NVMe\u2122 M.2 SSD",
+    "section_title": "Storage",
+    "citations": [
+      241
+    ]
+  },
+  {
+    "sku": "HP ProBook 440 14 inch G11 Notebook PC",
+    "text": "up to 256 GB PCIe NVMe\u2122 Value SSD",
+    "section_title": "Storage",
+    "citations": [
+      241
+    ]
+  },
+  {
+    "sku": "HP ProBook 440 14 inch G11 Notebook PC",
+    "text": "Display size (diagonal, metric) is 35.6 cm (14\"). The aspect ratio is 16:10.",
+    "section_title": "Display",
+    "citations": [
+      241,
+      191
+    ]
+  },
+  {
+    "sku": "HP ProBook 440 14 inch G11 Notebook PC",
+    "text": "14\" diagonal, WUXGA (1920 x 1200), IPS, anti-glare, 400 nits, low power, 100% sRGB with HP Eye Ease",
+    "section_title": "Display",
+    "citations": [
+      241
+    ]
+  },
+  {
+    "sku": "HP ProBook 440 14 inch G11 Notebook PC",
+    "text": "14\" diagonal, WUXGA (1920 x 1200), IPS, anti-glare, 300 nits, 45% NTSC",
+    "section_title": "Display",
+    "citations": [
+      241
+    ]
+  },
+  {
+    "sku": "HP ProBook 440 14 inch G11 Notebook PC",
+    "text": "14\" diagonal, WUXGA (1920 x 1200), touch, IPS, anti-glare, 300 nits, 45% NTSC",
+    "section_title": "Display",
+    "citations": [
+      241
+    ]
+  },
+  {
+    "sku": "HP ProBook 440 14 inch G11 Notebook PC",
+    "text": "14\" diagonal, WQXGA (2560 x 1600), IPS, anti-glare, 500 nits, 100% DCI-P3",
+    "section_title": "Display",
+    "citations": [
+      241
+    ]
+  },
+  {
+    "sku": "HP ProBook 440 14 inch G11 Notebook PC",
+    "text": "The system includes Integrated or Discrete graphics options (Supports DX12 and HDMI 2.1).",
+    "section_title": "Graphics",
+    "citations": [
+      241
+    ]
+  },
+  {
+    "sku": "HP ProBook 440 14 inch G11 Notebook PC",
+    "text": "Integrated: Intel\u00ae Arc\u2122 Graphics",
+    "section_title": "Graphics",
+    "citations": [
+      241
+    ]
+  },
+  {
+    "sku": "HP ProBook 440 14 inch G11 Notebook PC",
+    "text": "Integrated: Intel Graphics",
+    "section_title": "Graphics",
+    "citations": [
+      241
+    ]
+  },
+  {
+    "sku": "HP ProBook 440 14 inch G11 Notebook PC",
+    "text": "Discrete: NVIDIA GeForce RTX\u2122 2050 Laptop GPU (4 GB GDDR6 dedicated)",
+    "section_title": "Graphics",
+    "citations": [
+      241,
+      219
+    ]
+  },
+  {
+    "sku": "HP ProBook 440 14 inch G11 Notebook PC",
+    "text": "Audio is by Poly Studio, with dual stereo speakers featuring discrete amplifiers, and integrated dual array microphones.",
+    "section_title": "Audio",
+    "citations": [
+      241
+    ]
+  },
+  {
+    "sku": "HP ProBook 440 14 inch G11 Notebook PC",
+    "text": "Standard ports include USB Type-C, USB Type-A, HDMI, a combo audio jack, and RJ-45 (HDMI cable sold separately).",
+    "section_title": "Ports and Connectors",
+    "citations": [
+      241
+    ]
+  },
+  {
+    "sku": "HP ProBook 440 14 inch G11 Notebook PC",
+    "text": "2 USB Type-C 20Gbps signaling rate (USB Power Delivery, DisplayPort\u2122 1.4, HP Sleep and Charge)",
+    "section_title": "Ports and Connectors",
+    "citations": [
+      241
+    ]
+  },
+  {
+    "sku": "HP ProBook 440 14 inch G11 Notebook PC",
+    "text": "2 USB Type-A 5Gbps signaling rate (1 charging, 1 power)",
+    "section_title": "Ports and Connectors",
+    "citations": [
+      241
+    ]
+  },
+  {
+    "sku": "HP ProBook 440 14 inch G11 Notebook PC",
+    "text": "1 HDMI 2.1",
+    "section_title": "Ports and Connectors",
+    "citations": [
+      241
+    ]
+  },
+  {
+    "sku": "HP ProBook 440 14 inch G11 Notebook PC",
+    "text": "1 stereo headphone/microphone combo jack",
+    "section_title": "Ports and Connectors",
+    "citations": [
+      241
+    ]
+  },
+  {
+    "sku": "HP ProBook 440 14 inch G11 Notebook PC",
+    "text": "1 RJ-45 (Ethernet)",
+    "section_title": "Ports and Connectors",
+    "citations": [
+      241
+    ]
+  },
+  {
+    "sku": "HP ProBook 440 14 inch G11 Notebook PC",
+    "text": "Input devices include a spill-resistant, optional backlit keyboard with DuraKeys, and a Clickpad with multi-touch gesture support, Microsoft Precision Touchpad.",
+    "section_title": "Input Devices",
+    "citations": [
+      241
+    ]
+  },
+  {
+    "sku": "HP ProBook 440 14 inch G11 Notebook PC",
+    "text": "The system is compatible with Miracast-certified devices. WWAN is an optional feature.",
+    "section_title": "Connectivity",
+    "citations": [
+      241,
+      268
+    ]
+  },
+  {
+    "sku": "HP ProBook 440 14 inch G11 Notebook PC",
+    "text": "WLAN/Bluetooth: Intel Wi-Fi 6E AX211 (2x2) and Bluetooth 5.3 wireless card",
+    "section_title": "Connectivity",
+    "citations": [
+      241
+    ]
+  },
+  {
+    "sku": "HP ProBook 440 14 inch G11 Notebook PC",
+    "text": "WLAN/Bluetooth: Realtek Wi-Fi 6E RTL8852CE 802.11a/b/g/n/ax (2x2) and Bluetooth\u2122 5.3 wireless card",
+    "section_title": "Connectivity",
+    "citations": [
+      241
+    ]
+  },
+  {
+    "sku": "HP ProBook 440 14 inch G11 Notebook PC",
+    "text": "WWAN (optional): Qualcomm 9205 LTE Cat-M1",
+    "section_title": "Connectivity",
+    "citations": [
+      241
+    ]
+  },
+  {
+    "sku": "HP ProBook 440 14 inch G11 Notebook PC",
+    "text": "WWAN (optional): HP 4000 4G LTE Advanced Pro",
+    "section_title": "Connectivity",
+    "citations": [
+      241
+    ]
+  },
+  {
+    "sku": "HP ProBook 440 14 inch G11 Notebook PC",
+    "text": "Available camera options are FHD or 5 MP IR cameras (select models).",
+    "section_title": "Camera",
+    "citations": [
+      241
+    ]
+  },
+  {
+    "sku": "HP ProBook 440 14 inch G11 Notebook PC",
+    "text": "FHD camera (select models)",
+    "section_title": "Camera",
+    "citations": [
+      241
+    ]
+  },
+  {
+    "sku": "HP ProBook 440 14 inch G11 Notebook PC",
+    "text": "5 MP IR camera (select models)",
+    "section_title": "Camera",
+    "citations": [
+      241,
+      217
+    ]
+  },
+  {
+    "sku": "HP ProBook 440 14 inch G11 Notebook PC",
+    "text": "Optional: 1 nano SIM slot.",
+    "section_title": "Memory Card Device",
+    "citations": [
+      248
+    ]
+  },
+  {
+    "sku": "HP ProBook 440 14 inch G11 Notebook PC",
+    "text": "Available power adapters include 45 W, 65 W, and 100 W USB Type-C adapters.",
+    "section_title": "Power Adapter",
+    "citations": [
+      248
+    ]
+  },
+  {
+    "sku": "HP ProBook 440 14 inch G11 Notebook PC",
+    "text": "45 W USB Type-C adapter",
+    "section_title": "Power Adapter",
+    "citations": [
+      248
+    ]
+  },
+  {
+    "sku": "HP ProBook 440 14 inch G11 Notebook PC",
+    "text": "65 W USB Type-C adapter",
+    "section_title": "Power Adapter",
+    "citations": [
+      248
+    ]
+  },
+  {
+    "sku": "HP ProBook 440 14 inch G11 Notebook PC",
+    "text": "HP 100 W USB Type-C slim adapter",
+    "section_title": "Power Adapter",
+    "citations": [
+      248
+    ]
+  },
+  {
+    "sku": "HP ProBook 440 14 inch G11 Notebook PC",
+    "text": "HP 65 W USB Type-C Halogen-free adapter",
+    "section_title": "Power Adapter",
+    "citations": [
+      248
+    ]
+  },
+  {
+    "sku": "HP ProBook 440 14 inch G11 Notebook PC",
+    "text": "HP Long Life 3-cell, 56 Wh Li-ion polymer battery. The battery is internal and not replaceable by the customer but is serviceable by warranty. It supports fast charging of 50% in 30 minutes.",
+    "section_title": "Battery",
+    "citations": [
+      248,
+      248,
+      248
+    ]
+  },
+  {
+    "sku": "HP ProBook 440 14 inch G11 Notebook PC",
+    "text": "Dimensions (W x D x H) are $31.86 \\times 22.44 \\times 1.09$ cm (front) and $31.86 \\times 22.43 \\times 1.7$ cm (rear) or $12.54 \\times 8.83 \\times 0.43$ in (front) and $12.54 \\times 8.83 \\times 0.67$ in (rear).",
+    "section_title": "Dimensions",
+    "citations": [
+      248
+    ]
+  },
+  {
+    "sku": "HP ProBook 440 14 inch G11 Notebook PC",
+    "text": "Starting at 3.08 lb or 1.39 kg (Weight will vary by configuration. Does not include power adapter.).",
+    "section_title": "Weight",
+    "citations": [
+      248
+    ]
+  },
+  {
+    "sku": "HP ProBook 440 14 inch G11 Notebook PC",
+    "text": "Software includes Adobe offer, Buy Office, HP Connection Optimizer, HP Easy Clean, HP Easy Clean Keyboard Driver, HP MAC Address Manager, Copilot in Windows with Copilot key, HP PC Hardware Diagnostics UEFI, HP PC Hardware Diagnostics Windows, HP Power Manager, HP Privacy Settings, HP Services Scan, HP Smart Support, HP Support Assistant, HSA Fusion for Commercial, HSA Telemetry for Commercial, myHP, and Miro offer.",
+    "section_title": "Software",
+    "citations": [
+      241
+    ]
+  },
+  {
+    "sku": "HP ProBook 440 14 inch G11 Notebook PC",
+    "text": "Security features include HP Client Security Manager, HP Sure Admin, HP Sure Click, HP Sure Recover Gen6, HP Sure Run Gen5, HP Sure Sense, HP Sure Start Gen7, HP Tamper Lock, Secured-Core PC Enable, TPM 2.0 Embedded Security Chip (Common Criteria EAL4+ Certified) (FIPS 140-2 Level 2 Certified), Absolute Persistence Module, BIOS Update via Network, HP BIOSphere Gen6, HP DriveLock and Automatic DriveLock, HP Secure Erase, HP Wake on WLAN Windows Hello Enhanced Sign-in Security (ESS) Enable, Security lock slot, and HP Endpoint Security Controller (ESC-5).",
+    "section_title": "Security Management",
+    "citations": [
+      241
+    ]
+  },
+  {
+    "sku": "HP ProBook 440 14 inch G11 Notebook PC",
+    "text": "HP Wolf Pro Security Edition.",
+    "section_title": "Security Software Licenses",
+    "citations": [
+      241
+    ]
+  },
+  {
+    "sku": "HP ProBook 440 14 inch G11 Notebook PC",
+    "text": "Fingerprint sensor (select models).",
+    "section_title": "Fingerprint Reader",
+    "citations": [
+      241
+    ]
+  },
+  {
+    "sku": "HP ProBook 440 14 inch G11 Notebook PC",
+    "text": "Management features include: HP Client Catalog (download), HP Cloud Recovery, HP Connect for Microsoft Endpoint Manager, HP Client Management Script Library (download), HP Driver Packs download(), HP Image Assistant (download), HP Manageability Integration Kit (download), and HP Patch Assistant (download).",
+    "section_title": "Management Features",
+    "citations": [
+      248
+    ]
+  },
+  {
+    "sku": "HP ProBook 440 14 inch G11 Notebook PC",
+    "text": "The PC is ENERGY STAR\u00ae certified. Compliance certifications include GS Mark, CSA/UL 62368-1, FCC/ICES/CISPR/VCCI, CE Marking, China CCC/SRRC, Taiwan BSMI/NCC, Korea KCC/KC/KES, Ukraine NSOC/TEC, EAEU Compliance, Saudi Arabian Compliance, Low blue light, and WW ROHS.",
+    "section_title": "Certifications",
+    "citations": [
+      248,
+      248
+    ]
+  },
+  {
+    "sku": "HP ProBook 440 14 inch G11 Notebook PC",
+    "text": "EPEAT\u00ae registered configurations available",
+    "section_title": "Certifications",
+    "citations": [
+      248
+    ]
+  },
+  {
+    "sku": "HP ProBook 440 14 inch G11 Notebook PC",
+    "text": "TCO Certified configurations available",
+    "section_title": "Certifications",
+    "citations": [
+      248
+    ]
+  },
+  {
+    "sku": "HP ProBook 440 14 inch G11 Notebook PC",
+    "text": "EPEAT Gold registered in the U.S.",
+    "section_title": "Certifications",
+    "citations": [
+      248
+    ]
+  },
+  {
+    "sku": "HP ProBook 440 14 inch G11 Notebook PC",
+    "text": "Sustainable Impact specifications include Low halogen, Bulk packaging, 100% sustainably sourced and recyclable molded paper pulp cushion, 100% sustainably sourced and recyclable outside box and corrugated cushions, 20% post-consumer recycled plastic, Ocean-bound plastic in speaker enclosure and system fan, and 50% recycled metal. The chassis contains 50 percent post-industrial recycled stamped aluminum.",
+    "section_title": "Sustainability",
+    "citations": [
+      248,
+      202
+    ]
+  },
+  {
+    "sku": "HP ProBook 440 14 inch G11 Notebook PC",
+    "text": "1-year warranty and 90 day software limited warranty options depending on country. Batteries have a default one year limited warranty. On-site service and extended coverage is also available. HP Care Pack Services are optional extended service contracts.",
+    "section_title": "Warranty",
+    "citations": [
+      248,
+      248,
+      248,
+      248
+    ]
+  }
+]
