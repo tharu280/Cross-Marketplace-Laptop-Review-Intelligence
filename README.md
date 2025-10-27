@@ -4,6 +4,10 @@ This project builds an **insights engine** for specific business laptops sold on
 It leverages **Retrieval-Augmented Generation (RAG)** to combine canonical technical specifications from PDFs with mutable data (like price and reviews) scraped or manually entered from brand websites, providing an interactive analytics experience and a chatbot interface.
 
 ![Schema Diagram](./schemadiagram.svg)
+![Ss1](./s1.png)
+![Ss2](./s2.png)
+![Ss3](./s3.png)
+
 ---
 
 ##  Problem Statement
