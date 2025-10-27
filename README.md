@@ -3,7 +3,7 @@
 This project builds an **insights engine** for specific business laptops sold on Lenovo and HP first-party stores, fulfilling the requirements of the _“Cross-Marketplace Laptop & Review Intelligence”_ assignment.  
 It leverages **Retrieval-Augmented Generation (RAG)** to combine canonical technical specifications from PDFs with mutable data (like price and reviews) scraped or manually entered from brand websites, providing an interactive analytics experience and a chatbot interface.
 
-![Schema Diagram](./schema diagram.svg)
+![Schema Diagram](./schemadiagram.svg)
 ---
 
 ##  Problem Statement
