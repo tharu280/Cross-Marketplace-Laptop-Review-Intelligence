@@ -5,7 +5,7 @@ It leverages **Retrieval-Augmented Generation (RAG)** to combine canonical techn
 
 A short video of a screen recording of the application with a small discussion about my approach is available here:  
 Watch the demo video on Youtube: 
-[https://www.linkedin.com/posts/tharushika-abedheera-3396311a4_ai-agenticai-geminiapi-activity-7381066444673003520-C_l1?utm_source=share&utm_medium=member_desktop&rcm=ACoAAC_Kg50BnjbR5xO7unO3rKyCnc0-DFK9CqE](https://youtu.be/V6QxndQUiVM)
+https://youtu.be/V6QxndQUiVM?si=pSsXFfte-C3AAuGo
 ---
 ![Schema Diagram](./schemadiagram.svg)
 ![Ss1](./s1.png)
