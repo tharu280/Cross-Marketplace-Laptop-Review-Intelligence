@@ -41,7 +41,7 @@ The system must treat official PDF spec sheets as **ground truth** for technical
 |------------|-------------|
 | **Backend** | Python · FastAPI · Uvicorn |
 | **Frontend** | Streamlit |
-| **LLM** | Google Gemini API (`gemini-1.5-flash` via `google-generativeai`) |
+| **LLM** | Google Gemini API (`gemini-2.5-flash` via `google-generativeai`) |
 | **Vector Database/Search** | FAISS (`faiss-cpu`) |
 | **Embeddings** | Sentence Transformers (`all-MiniLM-L6-v2`) |
 | **Dynamic Data Storage** | SQLite |
